@@ -1,0 +1,894 @@
+nombre,direccion,latitud,longitud,pobtot,pob60
+c1,"Lomas Independencia, 44370 Guadalajara, Jalisco, Mexico",20.6820247,-103.3161386,2877,555
+c2,"Postes Cuates, 44350 Guadalajara, Jalisco, Mexico",20.6905617,-103.3190256,3734,683
+c3,"Independencia Oriente, 44340 Guadalajara, Jalisco, Mexico",20.689097,-103.3284089,6897,1697
+c4,"Av. Belisario Domínguez, Independencia Oriente, 44340 Guadalajara, Jal., Mexico",20.6886423,-103.3250066,5394,901
+c5,"Postes Cuates, 44350 Guadalajara, Jalisco, Mexico",20.6902267,-103.3139733,10550,1911
+c6,"San Juan de Dios, 44360 Guadalajara, Jalisco, Mexico",20.6769616,-103.3341835,9087,1719
+c7,"Reforma, 44360 Guadalajara, Jalisco, Mexico",20.6758442,-103.3204691,1836,354
+c8,"Progreso, 44730 Guadalajara, Jalisco, Mexico",20.6724783,-103.3074779,3841,716
+c9,"Mirador, 44370 Guadalajara, Jalisco, Mexico",20.6819118,-103.3175821,2873,480
+c10,"Las Huertas, 44739 Guadalajara, Jalisco, Mexico",20.6734876,-103.3132516,2978,516
+c11,"San Martin, Guadalajara, Jalisco, Mexico",20.6901173,-103.3060345,4356,674
+c12,"San Juan de Dios, 44360 Guadalajara, Jalisco, Mexico",20.6769616,-103.3341835,8999,1665
+c13,"44730 Guadalajara, Jalisco, Mexico",20.6731521,-103.3081996,13008,2180
+c14,"Aldama Tetlán, 44820 Guadalajara, Jalisco, Mexico",20.6576527,-103.282221,13303,1783
+c15,"Circunvalación Oblatos, Guadalajara, Jalisco, Mexico",20.6876473,-103.3002611,5353,758
+c16,"Cantarranas, Guadalajara, Jalisco, Mexico",20.6594498,-103.287272,3933,723
+c17,"Popular, 44710 Guadalajara, Jalisco, Mexico",20.6834912,-103.2973745,2173,354
+c18,"San Rafael, Guadalajara, Jalisco, Mexico",20.6536064,-103.2966529,8003,1407
+c19,"Talpita, Guadalajara, Jalisco, Mexico",20.6843879,-103.3045911,7171,1185
+c20,"Huerta Baeza, 44730 Guadalajara, Jalisco, Mexico",20.6795552,-103.3103647,2430,377
+c21,"La Perla, 44360 Guadalajara, Jalisco, Mexico",20.6820164,-103.3349054,5386,1013
+c22,"San Juan Bosco, Guadalajara, Jalisco, Mexico",20.6792166,-103.3146951,7354,1480
+c23,"Motolinía 176, San Antonio, 44800 Guadalajara, Jal., Mexico",20.6615377,-103.3145675,11214,2026
+c24,"San Antonio, 44800 Guadalajara, Jalisco, Mexico",20.659895,-103.309643,6311,1195
+c25,"San Martin, 44710 Guadalajara, Jalisco, Mexico",20.6870834,-103.3074779,10358,1793
+c26,"Hernández Romo, 44419 Guadalajara, Jalisco, Mexico",20.6634869,-103.3197474,4314,823
+c27,"San Rafael, 44810 Guadalajara, Jalisco, Mexico",20.6549543,-103.2980962,24213,4185
+c28,"Revolución, 44400 Guadalajara, Jalisco, Mexico",20.6659562,-103.3255216,4713,990
+c29,"Real, 44400 Guadalajara, Jalisco, Mexico",20.6677515,-103.3305743,2645,505
+c30,"Analco, 44450 Guadalajara, Jalisco, Mexico",20.6669604,-103.3406803,3095,501
+c31,"San Juan de Dios II, 44450 Guadalajara, Jalisco, Mexico",20.6687599,-103.3363491,2531,477
+c32,"ANALCO 44450, Guadalajara",20.66695922,-103.3406814,3057,597
+c33,"Obrera, Guadalajara, Jalisco, Mexico",20.6632574,-103.332018,2036,457
+c34,"Unidad Modelo, 44420 Guadalajara, Jalisco, Mexico",20.6606754,-103.327687,1802,341
+c35,"Universitaria, 44840 Guadalajara, Jalisco, Mexico",20.6491082,-103.3168603,5832,1340
+c36,"La Loma, Guadalajara, Jalisco, Mexico",20.6596666,-103.3219127,3956,841
+c37,"Medrano, 44810 Guadalajara, Jalisco, Mexico",20.6551778,-103.3045911,1980,419
+c38,"Beatriz Hernández, Guadalajara, Jalisco, Mexico",20.6816964,-103.2829426,8722,1188
+c39,"Tetlán II, Guadalajara, Jalisco, Mexico",20.6559676,-103.2757272,4479,541
+c40,"Obeliscos, 44820 Guadalajara, Jalisco, Mexico",20.6532711,-103.277531,2061,294
+c41,"Villas de Guadalaupe, 44740 Guadalajara, Jalisco, Mexico",20.6792222,-103.2959313,5040,773
+c42,"Osorio Comunal, 44820 Guadalajara, Jalisco, Mexico",20.6563045,-103.2807779,14966,2165
+c43,"Lomas de San Eugenio, Guadalajara, Jalisco, Mexico",20.6843924,-103.2858288,7752,680
+c44,"San Eugenio, Guadalajara, Jalisco, Mexico",20.6807964,-103.2897976,1408,178
+c45,"San Isidro Oblatos, Guadalajara, Jalisco, Mexico",20.6823687,-103.2930448,4836,632
+c46,"Col. Jardines del Nilo, Guadalajara, Jalisco, Mexico",20.6492259,-103.287272,913,84
+c47,"El Zalate, 44760 Guadalajara, Jalisco, Mexico",20.682484,-103.2728412,6417,1233
+c48,"La Campesina, Guadalajara, Jalisco, Mexico",20.6813607,-103.2685123,2292,312
+c49,"El Zalate, 44760 Guadalajara, Jalisco, Mexico",20.682484,-103.2728412,1220,229
+c50,"San Joaquín, Guadalajara, Jalisco, Mexico",20.6733827,-103.2771703,4802,638
+c51,"Jardines de Los Poetas, Guadalajara, Jalisco, Mexico",20.6502365,-103.2930448,3020,337
+c52,"Insurgentes de La Presa, Guadalajara, Jalisco, Mexico",20.6528779,-103.2732019,2329,253
+c53,"Del Barro, Guadalajara, Jal., Mexico",20.6452732,-103.2757762,688,58
+c54,"Vistas del Nilo, Guadalajara, Jalisco, Mexico",20.6467546,-103.2768095,716,38
+c55,"Los Arrayanes, Guadalajara, Jalisco, Mexico",20.6776521,-103.2786133,6581,902
+c56,"Miguel Hidalgo, 44760 Guadalajara, Jalisco, Mexico",20.6757414,-103.2843857,5680,1299
+c57,"Cuauhtémoc, 44750 Guadalajara, Jalisco, Mexico",20.6742792,-103.2937664,9405,1564
+c58,"Av. Plutarco Elías Calles, 44720 Guadalajara, Jal., Mexico",20.6918662,-103.2892737,1134,191
+c59,"Villas de Guadalaupe, 44740 Guadalajara, Jalisco, Mexico",20.6792222,-103.2959313,4924,741
+c60,"Cuauhtémoc, 44750 Guadalajara, Jalisco, Mexico",20.6742792,-103.2937664,10123,1713
+c61,"Col. Jardines del Nilo, Guadalajara, Jalisco, Mexico",20.6492259,-103.287272,2584,251
+c62,"San Rafael, 44810 Guadalajara, Jalisco, Mexico",20.6549543,-103.2980962,1285,171
+c63,"Parques del Nilo 2a. Secc, 44824 Guadalajara, Jalisco, Mexico",20.6490013,-103.2854681,1902,159
+c64,"Vicente Guerrero, 44860 Guadalajara, Jalisco, Mexico",20.6483258,-103.2988178,3212,829
+c65,"Santa Ma. de Silo, 44750 Guadalajara, Jalisco, Mexico",20.6680437,-103.2941272,1158,199
+c66,"La Aurora, 44790 Guadalajara, Jalisco, Mexico",20.665741,-103.29088,9599,1372
+c67,"Hormiguero, 44810 Guadalajara, Jalisco, Mexico",20.6520325,-103.302787,1573,271
+c68,"Electricistas, 44810 Guadalajara, Jalisco, Mexico",20.6506837,-103.3060345,1413,354
+c69,"Universitaria, 44840 Guadalajara, Jalisco, Mexico",20.6541633,-103.3175821,1178,251
+c70,"Sutaj, 44840 Guadalajara, Jalisco, Mexico",20.6501203,-103.3132516,2494,550
+c71,"Hermosa Provincia, 44770 Guadalajara, Jalisco, Mexico",20.6713596,-103.2843857,3549,505
+c72,"Lomas del Paradero, 44840 Guadalajara, Jalisco, Mexico",20.6471994,-103.3132516,5049,1101
+c73,"Santos Degollado, 44710 Guadalajara, Jalisco, Mexico",20.6657945,-103.3042303,467,101
+c74,"San Joaquín, 44770 Guadalajara, Jalisco, Mexico",20.6727086,-103.2764487,22239,3403
+c75,"La Aurora, 44790 Guadalajara, Jalisco, Mexico",20.665741,-103.29088,11333,1684
+c76,"Cruzeiro 601-673, Benito Juárez, 44770 Guadalajara, Jal., Mexico",20.6704773,-103.2727339,8383,1356
+c77,"Tetlán, Guadalajara, Jalisco, Mexico",20.6620349,-103.2728412,5918,661
+c78,"Aaron Joaquín, Guadalajara, Jalisco, Mexico",20.6821465,-103.2771703,6381,791
+c79,"Balcones de Oblatos, Guadalajara, Jalisco, Mexico",20.6869758,-103.2901584,11866,1600
+c80,"Jardines de la Paz, 45519 Tlaquepaque, Jalisco, Mexico",20.6421468,-103.298457,2011,550
+c81,"Prados del Nilo, 44840 Guadalajara, Jalisco, Mexico",20.6480961,-103.3204691,1083,239
+c82,"Loma El Pedregal, Mesa Colorada Poniente, 45205 Zapopan, Jalisco, Mexico",20.7696969,-103.3388756,466,45
+c83,"Mesa Colorada Poniente, 45205 Zapopan, Jalisco, Mexico",20.7735633,-103.3500652,5958,514
+c84,"Mirador Escondido, Zapopan, Jalisco, Mexico",20.7654891,-103.332018,3639,244
+c85,"LA CORONILLA 45180, Ixtlahuacán del Río,Zapopan",20.76213683,-103.3299603,5608,282
+c86,"Vista Hermosa, 45189 Zapopan, Jalisco, Mexico",20.7595336,-103.3334617,5113,382
+c87,"Mesa Colorada Poniente, 45205 Zapopan, Jalisco, Mexico",20.7735633,-103.3500652,15349,770
+c88,"Crucero de La Mesa, Mesa Colorada Oriente, 45189 Zapopan, Jalisco, Mexico",20.7639079,-103.342846,5296,414
+c89,"Mesa Colorada Poniente, 45205 Zapopan, Jalisco, Mexico",20.7735633,-103.3500652,10986,713
+c90,"Villas de Guadalupe, 45189 Zapopan, Jalisco, Mexico",20.756492,-103.3442898,19145,1649
+c91,"La Higuera, 45189 Zapopan, Jalisco, Mexico",20.7529047,-103.3341835,6422,267
+c92,"Emiliano Zapata, Atemajac del Valle, 45190 Zapopan, Jal., Mexico",20.7197118,-103.3552601,6144,494
+c93,"Lomas del Refugio, Zapopan, Jalisco, Mexico",20.7432414,-103.3363491,3858,197
+c94,"Nueva España, 45186 Zapopan, Jalisco, Mexico",20.7426745,-103.3435679,2834,214
+c95,"Indígena de Mezquitán, Zapopan, Jalisco, Mexico",20.7385264,-103.3312962,6579,727
+c96,"Benito Juárez Auditorio, Zapopan, Jalisco, Mexico",20.7387467,-103.3377928,2507,244
+c97,"La Junta de Los Ocotes, Zapopan, Jalisco, Mexico",20.7563706,-103.3551189,928,57
+c98,"Agua Fría, 45180 Zapopan, Jal., Mexico",20.7506173,-103.3492142,8499,488
+c99,"Vistas del Centinela, 45187 Zapopan, Jalisco, Mexico",20.7593966,-103.3630608,8038,281
+c100,"Las Cabañitas, 45180 Zapopan, Jalisco, Mexico",20.754001,-103.3666709,2590,271
+c101,"Nuevo Vergel, 45180 Zapopan, Jalisco, Mexico",20.7542284,-103.3637828,4651,429
+c102,"San Bernardo, 45110 Zapopan, Jal., Mexico",20.7051482,-103.4114045,284,65
+c103,"Lomas de Tabachines, Zapopan, Jalisco, Mexico",20.7479408,-103.3601728,12718,1170
+c104,"Emiliano Zapata, Zapopan, Jalisco, Mexico",20.7498473,-103.3637828,3230,342
+c105,"Lomas del Vergel, La Martinica, Zapopan, Jalisco, Mexico",20.7495063,-103.368115,3675,292
+c106,"Real San Bernardo, 45110 Zapopan, Jal., Mexico",20.7051292,-103.4089715,227,68
+c107,"La Martinica, Zapopan, Jalisco, Mexico",20.7452389,-103.3666709,3786,453
+c108,"Jardines del Vergel, Zapopan, Jalisco, Mexico",20.7536599,-103.3710032,9825,689
+c109,"San Wenceslao, 45110 Zapopan, Jalisco, Mexico",20.6995934,-103.4085558,1604,414
+c110,"Jardines Universidad, 45110 Zapopan, Jalisco, Mexico",20.6883479,-103.4215573,2815,585
+c111,"Loma Real, Zapopan, Jalisco, Mexico",20.6886378,-103.4132506,1779,351
+c112,"Horizontes de Tlaquepaque, 45638 Tonalá, Jalisco, Mexico",20.5887772,-103.2569692,182,12
+c113,"Patria Universidad, 45119 Zapopan, Jalisco, Mexico",20.6868361,-103.4175845,846,145
+c114,"Balcones de la Cantera, 45186 Zapopan, Jalisco, Mexico",20.7434541,-103.352231,8445,1013
+c115,"Alamedas de Tesistán, 45185 Zapopan, Jalisco, Mexico",20.7462445,-103.3724473,504,43
+c116,"Villas de San Javier, 45120 Zapopan, Jalisco, Mexico",20.6798254,-103.409278,1847,346
+c117,"45190 Zapopan, Jalisco, Mexico",20.7361657,-103.3334617,4066,563
+c118,"Los Canteros, Zapopan, Jalisco, Mexico",20.7284102,-103.3392366,1473,162
+c119,"La Experiencia, Zapopan, Jalisco, Mexico",20.7300972,-103.3363491,1093,250
+c120,"Lomas Altas, Zapopan, Jalisco, Mexico",20.6848788,-103.4100003,2332,521
+c121,"Hacienda de las Lomas, Zapopan, Jalisco, Mexico",20.6848738,-103.4146952,234,28
+c122,"Vigusa, Zapopan, Jalisco, Mexico",20.6823991,-103.4183068,192,41
+c123,"Jardines de la Patria, Zapopan, Jalisco, Mexico",20.6839678,-103.4215573,1575,286
+c124,"Villas de San Javier, 45120 Zapopan, Jalisco, Mexico",20.6798254,-103.409278,2467,541
+c125,"Los Pinos, Zapopan, Jalisco, Mexico",20.6807261,-103.4071112,778,170
+c126,"Villas de San Javier, 45120 Zapopan, Jalisco, Mexico",20.6798254,-103.409278,1078,230
+c127,"Villas de San Javier, Zapopan, Jalisco, Mexico",20.6770237,-103.4031389,1840,279
+c128,"Tateposco, Tlaquepaque, Jalisco, Mexico",20.6093398,-103.2649049,1159,85
+c129,"Los Santibáñez, 45630 Jalisco, Mexico",20.6113606,-103.2576906,818,81
+c130,"Bosque Escondido, 45180 Zapopan, Jalisco, Mexico",20.7355316,-103.3554799,1009,82
+c131,"Víctor Hugo, 45190 Zapopan, Jalisco, Mexico",20.725376,-103.3406803,3292,513
+c132,"Hogares del Batan, 45190 Zapopan, Jalisco, Mexico",20.72773,-103.3478994,1891,220
+c133,"La Loma, Zapopan, Jalisco, Mexico",20.607008,-103.4533444,612,51
+c134,"Lomas del Batán, 45190 Zapopan, Jalisco, Mexico",20.723122,-103.3507872,4723,683
+c135,"El Batán, 45190 Zapopan, Jalisco, Mexico",20.7221151,-103.3450117,4355,702
+c136,"Villas Alcalde, 45190 Zapopan, Jalisco, Mexico",20.7183524,-103.3441093,431,64
+c137,"Conjunto Ritz, 45190 Zapopan, Jalisco, Mexico",20.7173971,-103.3446508,525,62
+c138,"La Palmita, 45180 Zapopan, Jalisco, Mexico",20.730477,-103.3547579,3021,394
+c139,"Jardines Vallarta, 45027 Zapopan, Jalisco, Mexico",20.6840711,-103.4295033,1927,457
+c140,"27 de Septiembre, 45180 Zapopan, Jalisco, Mexico",20.7255284,-103.3619778,1935,253
+c141,"Pedro Moreno, 45180 Zapopan, Jalisco, Mexico",20.7287329,-103.3583678,1691,301
+c142,"Colinas de Tabachines, 45185 Zapopan, Jalisco, Mexico",20.7441804,-103.3569238,1162,187
+c143,"Jardines de la Esperanza, 45180 Zapopan, Jalisco, Mexico",20.7368217,-103.3576458,1296,123
+c144,"Jardines de Tabachines, 45188 Zapopan, Jalisco, Mexico",20.7373164,-103.3699201,741,104
+c145,"Tabachines, 45188 Zapopan, Jalisco, Mexico",20.7387242,-103.3659489,14316,2550
+c146,"El Grillo, Zapopan, Jalisco, Mexico",20.7346756,-103.3710032,864,95
+c147,"Av Valdepeñas 2593 B, Lomas de Zapopan, 45130 Zapopan, Jal., Mexico",20.7477008,-103.3982662,489,131
+c148,"Santa Paula, 45179 Zapopan, Jalisco, Mexico",20.7253581,-103.3641438,1648,289
+c149,"Venustiano Carranza, 45180 Zapopan, Jalisco, Mexico",20.725082,-103.3583678,3240,488
+c150,"Sta María del Pueblito, 45018 Zapopan, Jalisco, Mexico",20.6799081,-103.436005,2214,285
+c151,"Lomas de Atemajac, 45178 Zapopan, Jalisco, Mexico",20.7149127,-103.3623388,3889,852
+c152,"Camichines Vallarta, Zapopan, Jalisco, Mexico",20.6787902,-103.4316705,599,166
+c153,"Eucalipto Vallarta, Zapopan, Jalisco, Mexico",20.6762121,-103.4273362,1041,199
+c154,"Colinas de Atemajac, 45170 Zapopan, Jalisco, Mexico",20.7185067,-103.3630608,3065,696
+c155,"Real Vallarta, Zapopan, Jalisco, Mexico",20.67644,-103.4244467,2340,464
+c156,"Vallarta la Patria, Zapopan, Jalisco, Mexico",20.6752078,-103.4215573,833,231
+c157,"Prados Vallarta, Zapopan, Jalisco, Mexico",20.6755494,-103.4172233,2728,747
+c158,"Prados Guadalupe, Zapopan, Jalisco, Mexico",20.6734682,-103.4204738,1100,255
+c159,"Zoquipan, Zapopan, Jalisco, Mexico",20.7170993,-103.3670319,2370,393
+c160,"Av. Ignacio L. Vallarta 5005, Col. Chapalita, Camino Real, 45040 Guadalajara, Jal., Mexico",20.675291,-103.4098238,4072,954
+c161,"Constituyentes, 45184 Zapopan, Jalisco, Mexico",20.7237274,-103.3663099,329,75
+c162,"Jardines de La Seattle, Los Maestros, 45150 Zapopan, Jalisco, Mexico",20.7224861,-103.3728084,440,73
+c163,"Av Jaime Torres Bodet 3340, Jardínes del Sauz, 44987 Guadalajara, Jal., Mexico",20.625845,-103.398173,2902,276
+c164,"Las Flores, Jardín de San Ignacio, 45040 Zapopan, Jalisco, Mexico",20.6698279,-103.4110837,599,154
+c165,"Constituyentes, 45184 Zapopan, Jalisco, Mexico",20.7237274,-103.3663099,867,131
+c166,"Seattle, 45150 Zapopan, Jalisco, Mexico",20.7198454,-103.3738915,1722,408
+c167,"Don Bosco Vallarta, 45049 Zapopan, Jalisco, Mexico",20.6734258,-103.4071112,280,63
+c168,"El Capullo, Zapopan, Jalisco, Mexico",20.72051,-103.3840009,845,166
+c169,"El Sauz, 44987 Guadalajara, Jalisco, Mexico",20.6286263,-103.3919446,8902,1353
+c170,"Tepeyac, 45150 Zapopan, Jalisco, Mexico",20.7256777,-103.3832788,2452,530
+c171,"Los Maestros, 45150 Zapopan, Jalisco, Mexico",20.7235486,-103.3778629,1551,343
+c172,"La Aurora, Hab Seattle, Zapopan, Jal., Mexico",20.7246993,-103.3733788,1055,223
+c173,"Las Torres, 44920 Guadalajara, Jalisco, Mexico",20.6477343,-103.3717253,6105,1178
+c174,"El Paraíso, 45157 Zapopan, Jalisco, Mexico",20.7256822,-103.378585,771,95
+c175,"Constituyentes, 45180 Zapopan, Jalisco, Mexico",20.7275971,-103.3728084,1844,356
+c176,"G.u.s.a., 45170 Zapopan, Jal., Mexico",20.722321,-103.3645101,516,120
+c177,"Constituyentes, 45184 Zapopan, Jalisco, Mexico",20.7237274,-103.3663099,24593,4022
+c178,"Villas Belenes, 45157 Zapopan, Jalisco, Mexico",20.7296126,-103.3796682,2436,280
+c179,"45599 Tlaquepaque, Jalisco, Mexico",20.5938303,-103.3515091,7682,877
+c180,"Villa de los Belenes, Zapopan, Jalisco, Mexico",20.746017,-103.3753356,752,59
+c181,"San José del Bajío, 45132 Zapopan, Jalisco, Mexico",20.7434284,-103.3803903,989,89
+c182,"Tepeyac, 45596 Tlaquepaque, Jalisco, Mexico",20.5927134,-103.3284089,664,76
+c183,"Tepeyac, 45596 San Pedro Tlaquepaque, Jal., Mexico",20.5938956,-103.3329453,1316,143
+c184,"Laureles, Conjunto Laureles, 45150 Zapopan, Jal., Mexico",20.7362509,-103.3851024,2655,227
+c185,"Zapopan Municipality, 45100 Zapopan, Jalisco, Mexico",20.7220746,-103.3919446,689,78
+c186,"Belenes Nte., Zapopan, Jalisco, Mexico",20.7368943,-103.3984444,864,120
+c187,"Residencial Cordilleras, 45029 Zapopan, Jalisco, Mexico",20.6709417,-103.4201126,2510,290
+c188,"Arcos de Zapopan, 45130 Zapopan, Jalisco, Mexico",20.7411499,-103.409278,14592,2404
+c189,"Lomas de Zapopan, Zapopan, Jalisco, Mexico",20.7447544,-103.400611,14582,2263
+c190,"Colinas del Rey, 45130 Zapopan, Jalisco, Mexico",20.7510402,-103.4042222,2020,233
+c191,"Las Palmas, 45130 Zapopan, Jalisco, Mexico",20.7539091,-103.4002499,3572,253
+c192,"Lomas de Guadalupe, Zapopan, Jalisco, Mexico",20.6682493,-103.4172233,961,200
+c193,"Lomas del Seminario, 45038 Zapopan, Jalisco, Mexico",20.667794,-103.423002,621,125
+c194,"La Estancia, Zapopan, Jalisco, Mexico",20.6694714,-103.4295033,7141,1877
+c195,"Altagracia, 45130 Zapopan, Jalisco, Mexico",20.7431908,-103.3926668,5824,589
+c196,"Zapopan Industrial Nte., 45132 Zapopan, Jalisco, Mexico",20.743475,-103.3897748,410,43
+c197,"Horizontal San Francisco, 45130 Zapopan, Jalisco, Mexico",20.7518382,-103.3941112,797,87
+c198,"Lomas del Colli, 45010 Zapopan, Jalisco, Mexico",20.6640542,-103.4518994,506,44
+c199,"Volcán del Colli, 45010 Zapopan, Jalisco, Mexico",20.6626811,-103.4557975,885,71
+c200,"Villas de Zapopan, Zapopan, Jalisco, Mexico",20.7508337,-103.3883338,5713,517
+c201,"El Centinela, Zapopan, Jalisco, Mexico",20.7681289,-103.3912224,221,14
+c202,"Loma Linda, Lomas del Cuatro, 45599 San Pedro Tlaquepaque, Jal., Mexico",20.5883095,-103.3554037,5213,693
+c203,"La Gloria del Colli, 45010 Zapopan, Jalisco, Mexico",20.6588877,-103.4526219,1007,64
+c204,"Buenos Aires, Tlaquepaque, Jalisco, Mexico",20.6070764,-103.368837,11629,1153
+c205,"Arcos de Guadalupe, Zapopan, Jalisco, Mexico",20.6631759,-103.4352826,3854,915
+c206,"La Mezquitera, 45605 Tlaquepaque, Jalisco, Mexico",20.6113977,-103.3742525,1917,230
+c207,"Jardines de Guadalupe, Zapopan, Jalisco, Mexico",20.6640871,-103.4237244,3579,946
+c208,"Lomas del Tepeyac, Tlaquepaque, Jalisco, Mexico",20.6092641,-103.3735304,1209,137
+c209,"Chapalita Oriente, 45040 Zapopan, Jalisco, Mexico",20.6647792,-103.4056667,1120,337
+c210,"Francisco I Madero, Tlaquepaque, Jalisco, Mexico",20.6034826,-103.368115,6648,490
+c211,"Haciendas del Valle, Zapopan, Jalisco, Mexico",20.7590254,-103.3955556,5886,390
+c212,"Magisterial Valle de San Isidro, Misión San Isidro, 45133 Zapopan, Jalisco, Mexico",20.75959,-103.3930279,566,68
+c213,"Francisco I Madero 2a. Secc, 45530 Tlaquepaque, Jalisco, Mexico",20.6014572,-103.3753356,8033,610
+c214,"Villas Mirador, Misión San Isidro, 45133 Zapopan, Jalisco, Mexico",20.7611642,-103.3915835,944,42
+c215,"Mirador San Isidro, Misión San Isidro, Zapopan, Jalisco, Mexico",20.7579071,-103.3912224,1466,145
+c216,"Bosques del Centinela, 45187 Zapopan, Jalisco, Mexico",20.7529771,-103.3796682,3113,187
+c217,"Nueva Santa María, Tlaquepaque, Jalisco, Mexico",20.6061715,-103.3803903,18149,1497
+c218,"Cd de los Niños, 45040 Zapopan, Jalisco, Mexico",20.6620775,-103.4121672,1519,362
+c219,"Av Guadalupe, Jalisco, Mexico",20.6627503,-103.4202044,276,44
+c220,"Cd de los Niños, 45040 Zapopan, Jalisco, Mexico",20.6620775,-103.4121672,292,42
+c221,"Tepeyac Casino, Prados Tepeyac, 45047 Zapopan, Jalisco, Mexico",20.6596031,-103.4157787,897,164
+c222,"Francisco Villa, 45130 Zapopan, Jalisco, Mexico",20.7500361,-103.3984444,6135,583
+c223,"Rinconada del Valle, Zapopan, Jalisco, Mexico",20.6577757,-103.4181262,151,43
+c224,"Paseo Escénico S/N, 46048 Guadalajara, Jal., Mexico",20.7643279,-103.3746135,990,68
+c225,"Chapalita de Occidente, 45030 Zapopan, Jalisco, Mexico",20.6588065,-103.4258915,720,198
+c226,"Guadalupe Jardín, Zapopan, Jalisco, Mexico",20.6585787,-103.428781,1646,356
+c227,"Chapalita las Fuentes, Zapopan, Jalisco, Mexico",20.6557727,-103.4273362,1119,235
+c228,"Atlas Chapalita, 45030 Zapopan, Jalisco, Mexico",20.6573414,-103.4305869,541,59
+c229,"Lomas del Paraíso I, 44250 Guadalajara, Jalisco, Mexico",20.7290954,-103.3211909,15358,2103
+c230,"Plaza Guadalupe, Zapopan, Jalisco, Mexico",20.6573362,-103.4352826,8105,1254
+c231,"Guayabitos, Tlaquepaque, Jalisco, Mexico",20.6001049,-103.3832788,10236,599
+c232,"Jardines de Chapalita, Exitmex, Zapopan, Jalisco, Mexico",20.6601366,-103.4414233,676,83
+c233,"Lomas del Paraíso ÌII, Guadalajara, Jalisco, Mexico",20.7313427,-103.3204691,12791,1082
+c234,"Chapalita Inn, Exitmex, 45010 Zapopan, Jalisco, Mexico",20.6573253,-103.4446744,1496,193
+c235,"Valle Balcones de Santa María, 45530 Tlaquepaque, Jalisco, Mexico",20.6019044,-103.3789461,5587,364
+c236,"Parque Guadalupe, Exitmex, 45037 Zapopan, Jal., Mexico",20.6597386,-103.4431728,1145,146
+c237,"Los Robles, Jalisco, Mexico",20.7536727,-103.4201847,1079,122
+c238,"Las Cumbres, La Gloria, 45030 Zapopan, Jal., Mexico",20.6579734,-103.4413759,213,45
+c239,"Placita del Sol, 45134 Nuevo México, Jalisco, Mexico",20.7604563,-103.4190291,14,1
+c240,"Hogares de Nuevo México, 45160 Zapopan, Jalisco, Mexico",20.7139958,-103.3832788,2468,246
+c241,"El Tigre, Nuevo México, Jalisco, Mexico",20.7661889,-103.4157787,957,103
+c242,"La Castilla, La Gloria, 45030 Zapopan, Jal., Mexico",20.6570139,-103.4413393,477,61
+c243,"La Florida, La Gloria, 45030 Zapopan, Jal., Mexico",20.6566295,-103.4403439,239,27
+c244,"Hogares de Nuevo México, 45160 Zapopan, Jalisco, Mexico",20.7139958,-103.3832788,2909,214
+c245,"Nueva Galicia, La Gloria, 45030 Zapopan, Jal., Mexico",20.6555405,-103.4407064,135,25
+c246,"Haciendas de San José, 45609 Tlaquepaque, Jalisco, Mexico",20.6003122,-103.4085558,3927,231
+c247,"Encinos, Nuevo México, Jal., Mexico",20.7636429,-103.4374052,54,1
+c248,"Nueva Galicia 2, Nueva Galicia, Exitmex, 45030 Zapopan, Jal., Mexico",20.6550334,-103.4411825,380,46
+c249,"Bellavista, Exitmex, 45010 Zapopan, Jalisco, Mexico",20.655586,-103.4435907,501,40
+c250,"Vista del Pinar, Exitmex, 45010 Zapopan, Jal., Mexico",20.6550856,-103.4439584,2443,290
+c251,"Marcelino García Barragán, Nuevo México, Jalisco, Mexico",20.7732199,-103.4468419,1547,96
+c252,"La Periquera, 45134 Nuevo México, Jalisco, Mexico",20.7698561,-103.4432295,2698,273
+c253,"Colli Sitio, 45036 Zapopan, Jalisco, Mexico",20.6536811,-103.4399784,1249,205
+c254,"Guadalupe Sur, 45036 Zapopan, Jalisco, Mexico",20.653852,-103.4378111,677,82
+c255,"Lomas del Paraíso I, Guadalajara, Jalisco, Mexico",20.7238139,-103.3233562,8269,1027
+c256,"La Caridad, Santa Anita, Jalisco, Mexico",20.5569405,-103.4403396,202,9
+c257,"El Mirador Juan Arias, Santa Anita, Jalisco, Mexico",20.5580596,-103.4446744,554,46
+c258,"El Jagüey, Guadalajara, Jalisco, Mexico",20.7218468,-103.3251607,2487,300
+c259,"España, 45600 Santa Anita, Jalisco, Mexico",20.554913,-103.4475643,761,78
+c260,"Hacienda del Tepeyac, Zapopan, Jalisco, Mexico",20.6503679,-103.4403396,4052,580
+c261,"Parques Tepeyac, 45053 Zapopan, Jalisco, Mexico",20.6491305,-103.4421458,826,106
+c262,"División del Nte., 45180 Guadalajara, Jal., Mexico",20.7340399,-103.3563377,3017,397
+c263,"Moctezuma Pte., Moctezuma, 45059 Zapopan, Jalisco, Mexico",20.6508236,-103.4345602,2776,402
+c264,"Ricardo Flores Magón, Guadalajara, Jalisco, Mexico",20.7196586,-103.3204691,1875,365
+c265,"Av Moctezuma, Zapopan, Jal., Mexico",20.6501658,-103.4224595,4839,653
+c266,"Primavera Nte., Zapopan, Jalisco, Mexico",20.6536941,-103.4282392,760,83
+c267,"Nueva Primavera, Zapopan, Jalisco, Mexico",20.6512791,-103.428781,2230,391
+c268,"Villas del Tepeyac, 45058 Zapopan, Jalisco, Mexico",20.6540332,-103.4262526,1172,101
+c269,"Rancho Nuevo, 44240 Guadalajara, Jalisco, Mexico",20.7169588,-103.3269652,16321,2303
+c270,"Puerta del Sol, 45058 Zapopan, Jalisco, Mexico",20.6517863,-103.426975,537,74
+c271,"Sta Catalina, 45058 Zapopan, Jalisco, Mexico",20.651284,-103.4240855,739,119
+c272,"Santa Elena de La Cruz, 44230 Guadalajara, Jalisco, Mexico",20.7117851,-103.337071,2903,589
+c273,"El Zapote, 45050 Zapopan, Jalisco, Mexico",20.6547728,-103.4168622,1804,279
+c274,"Prados Tepeyac, Zapopan, Jalisco, Mexico",20.6569105,-103.4128895,2458,543
+c275,"Santa Elena de La Cruz, 44230 Guadalajara, Jalisco, Mexico",20.7117851,-103.337071,9223,1347
+c276,"Cd del Sol, 45050 Zapopan, Jalisco, Mexico",20.653772,-103.406389,4151,1114
+c277,"Plaza del Sol, 45055 Zapopan, Jalisco, Mexico",20.6505195,-103.4013333,181,58
+c278,"Av. Cristóbal Colón, La Cruz, 44950 Guadalajara, Jal., Mexico",20.6374015,-103.3773001,3821,822
+c279,"Lomas de Independencia, Guadalajara, Jalisco, Mexico",20.7149377,-103.3247998,7693,1197
+c280,"Jardines del Sol, 45050 Zapopan, Jalisco, Mexico",20.65017,-103.4150564,3688,1084
+c281,"Las Torres, Guadalajara, Jalisco, Mexico",20.6531218,-103.3775019,2040,381
+c282,"Fovissste Estadio, 44240 Guadalajara, Jalisco, Mexico",20.7105563,-103.3247998,3459,314
+c283,"Las Torres, 44920 Guadalajara, Jalisco, Mexico",20.6477343,-103.3717253,88,3
+c284,"Bosques de La Victoria, 44540 Guadalajara, Jalisco, Mexico",20.6463741,-103.3890559,1171,193
+c285,"44560 Guadalajara, Jalisco, Mexico",20.6424365,-103.3973611,574,126
+c286,"Av Topacio 2786, 44550 Guadalajara, Jal., Mexico",20.6452972,-103.3947083,2854,719
+c287,"Colli CTM, Zapopan, Jalisco, Mexico",20.6485868,-103.4258915,5345,1270
+c288,"Bosques de La Victoria, 44540 Guadalajara, Jalisco, Mexico",20.6463741,-103.3890559,4177,1023
+c289,"Sta. Eduwiges, 44580 Guadalajara, Jalisco, Mexico",20.6394066,-103.3941112,1696,292
+c290,"Infonavit Independencia, 44240 Guadalajara, Jalisco, Mexico",20.7099367,-103.328048,3644,664
+c291,"La Cruz, 44950 Guadalajara, Jalisco, Mexico",20.6382869,-103.3897781,2689,709
+c292,"Jardines del Sur, 44950 Guadalajara, Jalisco, Mexico",20.6344666,-103.3919446,7110,1109
+c293,"San Elías, Guadalajara, Jalisco, Mexico",20.7114511,-103.332018,2219,561
+c294,"Jardines de San José, Guadalajara, Jalisco, Mexico",20.6327866,-103.3854452,8097,1459
+c295,"López de Legaspi, 44950 Guadalajara, Jalisco, Mexico",20.6405405,-103.3796682,3462,893
+c296,"Santa Elena Estadio, 44230 Guadalajara, Jalisco, Mexico",20.7109983,-103.3377928,3490,757
+c297,"La Cruz, 44950 Guadalajara, Jalisco, Mexico",20.6427874,-103.3789461,17736,4544
+c298,"La Primavera, 45057 Zapopan, Jalisco, Mexico",20.6495914,-103.4316705,1577,417
+c299,"Santa Elena Alcalde, 44220 Guadalajara, Jalisco, Mexico",20.7093051,-103.3500652,4905,1229
+c300,"Jardines Plaza del Sol, Guadalajara, Jalisco, Mexico",20.6568141,-103.3955556,750,158
+c301,"Colinas de San Javier, 47463 Lagos de Moreno, Jalisco, Mexico",21.3609042,-101.9447921,1598,160
+c302,"Cuesta Blanca, 47420 Lagos de Moreno, Jalisco, Mexico",21.3640086,-101.9373031,2045,386
+c303,"El Calvario, 47420 Lagos de Moreno, Jalisco, Mexico",21.3623028,-101.9355201,1879,265
+c304,"Potrero de Fray Ramón, 47423 Lagos de Moreno, Jalisco, Mexico",21.3680682,-101.9369465,2439,142
+c305,"Del Panteón, 47479 Lagos de Moreno, Jalisco, Mexico",21.358772,-101.9387296,480,75
+c306,"De La Luz, 47420 Lagos de Moreno, Jalisco, Mexico",21.3646566,-101.9333805,76,4
+c307,"Ladera Grande, 47423 Lagos de Moreno, Jalisco, Mexico",21.3690909,-101.9533516,1639,117
+c308,"Fray Ramón, Potrero de Fray Ramón, 47423 Lagos de Moreno, Jal., Mexico",21.366969,-101.9352267,247,7
+c309,"Pueblo de Moya, 47430 Lagos de Moreno, Jalisco, Mexico",21.3656787,-101.9191177,2079,344
+c310,"La Adelita, 47410 Lagos de Moreno, Jalisco, Mexico",21.3738674,-101.9276752,3045,272
+c311,"Cañada de Ricos, 47450 Lagos de Moreno, Jalisco, Mexico",21.3690839,-101.8920237,5121,428
+c312,"La Laguna, 47510 Lagos de Moreno, Jalisco, Mexico",21.3774837,-101.9283883,110,16
+c313,"La Estación, 47425 Lagos de Moreno, Jalisco, Mexico",21.3689885,-101.9241095,456,50
+c314,"Av El Tepeyac, 47410 Lagos de Moreno, Jal., Mexico",21.3780252,-101.9220206,2081,47
+c315,"Bajo de Moya, 47440 Lagos de Moreno, Jalisco, Mexico",21.3631531,-101.9134132,157,18
+c316,"Geovillas de Los Lagos, 47410 Lagos de Moreno, Jalisco, Mexico",21.3729972,-101.9244661,626,19
+c317,"La Palma, 47410 Lagos de Moreno, Jalisco, Mexico",21.3730994,-101.9230398,700,36
+c318,"El Tepeyac 2a. Secc, 47410 Lagos de Moreno, Jalisco, Mexico",21.3769202,-101.9209005,657,20
+c319,"C. 5 de Mayo 669, Centro, 47400 Lagos de Moreno, Jal., Mexico",21.3556191,-101.9370802,1260,19
+c320,"Santa Cecilia, San Juan de los Lagos, Jalisco, Mexico",21.2498043,-102.3528307,1413,85
+c321,"Ana Lucía, 47010 San Juan de los Lagos, Jalisco, Mexico",21.2478266,-102.3399448,766,100
+c322,"Centro, 47000 San Juan de los Lagos, Jalisco, Mexico",21.2475698,-102.3335024,8262,1733
+c323,"Las Ventanas, 47011 San Juan de los Lagos, Jalisco, Mexico",21.2527208,-102.3381552,1423,145
+c324,"Espíritu Santo, San Juan de los Lagos, Jalisco, Mexico",21.2524339,-102.3370814,1686,231
+c325,"Lomas Verdes, San Juan de los Lagos, Jalisco, Mexico",21.2524478,-102.3517568,335,24
+c326,"San Juan de los Lagos, Jalisco, Mexico",21.2506852,-102.3435504,504,24
+c327,"Santa Monica, 44220 Guadalajara, Jalisco, Mexico",20.7102053,-103.3478994,1982,469
+c328,"C. Ramón Corona 138, Atemajac del Valle, 45190 Zapopan, Jal., Mexico",20.7195753,-103.3528818,2009,419
+c329,"Jardines de Los Arcos, Guadalajara, Jalisco, Mexico",20.6686084,-103.3941112,2125,490
+c330,"Vallarta Poniente, 44110 Guadalajara, Jalisco, Mexico",20.6731023,-103.3926668,725,173
+c331,"Diag. San Jorge, 44690 Guadalajara, Jal., Mexico",20.6770122,-103.4005732,2716,482
+c332,"Vallarta Nte., 44690 Guadalajara, Jalisco, Mexico",20.6777099,-103.3897781,1872,434
+c333,"Sta Rita, 45127 Zapopan, Jalisco, Mexico",20.6836062,-103.4035697,1259,293
+c334,"Juan Manuel, 44680 Guadalajara, Jalisco, Mexico",20.6819768,-103.3912224,1422,322
+c335,"Av Terranova, Prados Providencia, 44670 Guadalajara, Jal., Mexico",20.6875133,-103.3869667,611,162
+c336,"Juan Manuel, 44680 Guadalajara, Jalisco, Mexico",20.6809709,-103.3854452,1540,414
+c337,"Jardines del Country, 44210 Guadalajara, Jalisco, Mexico",20.7070511,-103.3601728,7070,1960
+c338,"Colli Urbano, 45070 Zapopan, Jalisco, Mexico",20.6431926,-103.4295033,11912,1720
+c339,"Ladrón de Guevara, 44600 Guadalajara, Jalisco, Mexico",20.6769383,-103.3717253,10531,2744
+c340,"Fidel Velázquez, Guadalajara, Jalisco, Mexico",20.7112123,-103.353675,2674,548
+c341,"44650 Guadalajara, Jalisco, Mexico",20.6764846,-103.3775019,1669,416
+c342,"Obrera, 44140 Guadalajara, Jalisco, Mexico",20.6728908,-103.3767798,418,110
+c343,"Obrera, 44150 Guadalajara, Jalisco, Mexico",20.6688505,-103.3724473,2225,235
+c344,"Paseos del Sol, 45079 Zapopan, Jalisco, Mexico",20.6373529,-103.4295033,14738,2920
+c345,"La Alameda, 45079 Zapopan, Jalisco, Mexico",20.6361108,-103.436005,1897,267
+c346,"Santa Elena Alcalde, 44220 Guadalajara, Jalisco, Mexico",20.7093051,-103.3500652,11923,2341
+c347,"Cadete Francisco Márquez, 45076 Zapopan, Jalisco, Mexico",20.6346084,-103.4226408,308,109
+c348,"Colonia Belisario Domínguez, 44320 Guadalajara, Jalisco, Mexico",20.7012328,-103.3226345,6068,1432
+c349,"Del Fresno, 44900 Guadalajara, Jalisco, Mexico",20.6570961,-103.3668867,16955,3124
+c350,"Chapalita Sur, 45046 Zapopan, Jalisco, Mexico",20.6606263,-103.4027777,1940,488
+c351,"Morelos, 44910 Guadalajara, Jalisco, Mexico",20.6517869,-103.3572848,9114,2053
+c352,"8 de Julio, Guadalajara, Jalisco, Mexico",20.6467326,-103.3565628,2663,615
+c353,"C. Mexicaltzingo 2032, Col Americana, Americana, 44160 Guadalajara, Jal., Mexico",20.6685334,-103.3692206,4015,840
+c354,"La Calma, Zapopan, Jalisco, Mexico",20.6355702,-103.4150564,7826,2044
+c355,"Centro, 44100 Guadalajara, Jalisco, Mexico",20.674257,-103.3500652,2719,517
+c356,"Centro, 44100 Guadalajara, Jalisco, Mexico",20.674257,-103.3500652,3885,780
+c357,"Villaseñor, Guadalajara, Jalisco, Mexico",20.6898607,-103.3652269,13320,2816
+c358,"Loma Bonita, Zapopan, Jalisco, Mexico",20.6393989,-103.4035,1191,165
+c359,"C. Cruz Verde 705, Artesanos, 44200 Guadalajara, Jal., Mexico",20.687904,-103.3573597,12377,2364
+c360,"Centro Barranquitas, 44200 Guadalajara, Jalisco, Mexico",20.6841453,-103.3450117,3629,721
+c361,"Centro, 44100 Guadalajara, Jalisco, Mexico",20.674257,-103.3500652,13033,2538
+c362,"Jardines Alcalde, 44290 Guadalajara, Jalisco, Mexico",20.7033242,-103.3446708,10754,2945
+c363,"La Giralda, 45088 Zapopan, Jalisco, Mexico",20.6443387,-103.4056667,2154,348
+c364,"Independencia, 44290 Guadalajara, Jalisco, Mexico",20.7011443,-103.3299254,3616,474
+c365,"Loma Bonita, Zapopan, Jalisco, Mexico",20.6393989,-103.4035,4342,1232
+c366,"Santa María, Puerto Vallarta, Jalisco, Mexico",20.6286485,-105.2220207,1701,257
+c367,"Las Glorias, 48333 Puerto Vallarta, Jalisco, Mexico",20.6526208,-105.2421539,127,41
+c368,"Aramara, 48314 Puerto Vallarta, Jalisco, Mexico",20.6535413,-105.231914,1660,367
+c369,"Chapalita, Zapopan, Jalisco, Mexico",20.6648834,-103.396743,5420,1356
+c370,"Lagos del Country, Zapopan, Jalisco, Mexico",20.7156918,-103.3710032,2807,635
+c371,"Sin Nombre, 48314 Puerto Vallarta, Jalisco, Mexico",20.6512985,-105.2326454,336,50
+c372,"Vallarta 750, Puerto Vallarta, Jalisco, Mexico",20.6534085,-105.2293542,471,32
+c373,"Sin Nombre, 48314 Puerto Vallarta, Jalisco, Mexico",20.6512985,-105.2326454,56,6
+c374,"Vallarta 500, Puerto Vallarta, Jalisco, Mexico",20.6565085,-105.22716,523,42
+c375,"Las Arboledas, 48315 Puerto Vallarta, Jalisco, Mexico",20.6595427,-105.2256973,1258,72
+c376,"Jardines del Puerto, Puerto Vallarta, Jalisco, Mexico",20.6609297,-105.2304513,784,70
+c377,"Agua Zarca, Puerto Vallarta, Jalisco, Mexico",20.6657454,-105.2293542,539,31
+c378,"Marbella, Puerto Vallarta, Jalisco, Mexico",20.6423268,-105.2335597,140,44
+c379,"Jardines de Las Gaviotas, 48328 Puerto Vallarta, Jalisco, Mexico",20.6410009,-105.2180181,1629,253
+c380,"Fovissste 96, 48328 Puerto Vallarta, Jalisco, Mexico",20.6419235,-105.2158241,910,159
+c381,"Fovissste 100, 48313 Puerto Vallarta, Jalisco, Mexico",20.6503056,-105.2235032,260,67
+c382,"Fovissste 100, 48313 Puerto Vallarta, Jalisco, Mexico",20.6503056,-105.2235032,168,30
+c383,"Primavera de Vallarta, Puerto Vallarta, Jalisco, Mexico",20.6496455,-105.2227719,396,39
+c384,"Jardines de La Higuera, Puerto Vallarta, Jalisco, Mexico",20.6508663,-105.2233204,150,33
+c385,"Fovissste 100, 48313 Puerto Vallarta, Jalisco, Mexico",20.6503056,-105.2235032,1374,70
+c386,"Vida Vallarta, 48318 Puerto Vallarta, Jalisco, Mexico",20.6468066,-105.2180181,1249,132
+c387,"Vida Vallarta, 48318 Puerto Vallarta, Jalisco, Mexico",20.6468066,-105.2180181,861,92
+c388,"Garza Blanca, Puerto Vallarta, Jalisco, Mexico",20.6461764,-105.2108878,397,36
+c389,"INFONAVIT CTM (UNIDAD HABITACIONAL HELIODORO HERNANDEZ LOZA) 48318, Puerto Vallarta",20.64474225,-105.2132512,2659,471
+c390,"Cristóbal Colón, 48327 Puerto Vallarta, Jalisco, Mexico",20.6423128,-105.2033921,3848,385
+c391,"Cristóbal Colón, 48327 Puerto Vallarta, Jalisco, Mexico",20.6423128,-105.2033921,964,87
+c392,"Ojo de Agua, 48344 Puerto Vallarta, Jalisco, Mexico",20.6369069,-105.2110706,538,52
+c393,"Presidentes Municipales, 48344 Puerto Vallarta, Jalisco, Mexico",20.6385551,-105.2088767,418,43
+c394,"Moderna, 48344 Puerto Vallarta, Jalisco, Mexico",20.6384873,-105.2055859,1023,112
+c395,"Lindavista, Puerto Vallarta, Jalisco, Mexico",20.6362079,-105.2017225,880,51
+c396,"Presidentes Municipales, 48344 Puerto Vallarta, Jalisco, Mexico",20.6370358,-105.2055859,1741,104
+c397,"Agua Azul, 48340 Puerto Vallarta, Jalisco, Mexico",20.6206811,-105.2180181,2313,311
+c398,"López Mateos, 48340 Puerto Vallarta, Jalisco, Mexico",20.6237172,-105.2205778,1251,215
+c399,"5 de Diciembre, 48350 Puerto Vallarta, Jalisco, Mexico",20.6188401,-105.2304513,4448,856
+c400,"Gastronómica, 48353 Puerto Vallarta, Jalisco, Mexico",20.6109192,-105.2216748,70,17
+c401,"El Caloso, Puerto Vallarta, Jalisco, Mexico",20.6090744,-105.226063,1695,217
+c402,"El Caloso, 48360 Puerto Vallarta, Jalisco, Mexico",20.6061718,-105.226063,140,16
+c403,"Leona Vicario 400, Cerro, 48304 Puerto Vallarta, Jal., Mexico",20.6111732,-105.2309263,2352,431
+c404,"Centro, 48300 Puerto Vallarta, Jalisco, Mexico",20.6098697,-105.2333768,810,218
+c405,"Las Canoas, 48360 Puerto Vallarta, Jalisco, Mexico",20.6040942,-105.2269772,642,81
+c406,"Buenos Aires, Puerto Vallarta, Jalisco, Mexico",20.6030023,-105.2209435,1544,163
+c407,"El Remance, 48389 Puerto Vallarta, Jalisco, Mexico",20.5995752,-105.2267944,1205,160
+c408,"El Remance, 48389 Puerto Vallarta, Jalisco, Mexico",20.5995752,-105.2267944,580,90
+c409,"Paso Ancho, Puerto Vallarta, Jalisco, Mexico",20.5951827,-105.2211483,745,82
+c410,"Emiliano Zapata, 48380 Puerto Vallarta, Jalisco, Mexico",20.6019532,-105.2326454,3060,737
+c411,"Emiliano Zapata, 48380 Puerto Vallarta, Jalisco, Mexico",20.6019532,-105.2326454,668,110
+c412,"Amapas, 48399 Puerto Vallarta, Jal., Mexico",20.596558,-105.2385665,370,77
+c413,"Amapas - Conchas Chinas, 48390 Puerto Vallarta, Jalisco, Mexico",20.5929831,-105.2355711,27,13
+c414,"Amapas, 48399 Puerto Vallarta, Jalisco, Mexico",20.5866534,-105.2414225,116,32
+c415,"Leandro Valle, 48290 Puerto Vallarta, Jalisco, Mexico",20.6502382,-105.2202121,736,62
+c416,"Centro Pitillal, Puerto Vallarta, Jalisco, Mexico",20.6532725,-105.2187495,3297,441
+c417,"Independencia, 44290 Guadalajara, Jalisco, Mexico",20.7011443,-103.3299254,13654,3210
+c418,"Loma Bonita Sur, 45086 Zapopan, Jalisco, Mexico",20.6356921,-103.4042222,1559,381
+c419,"Lomas de La Victoria, Tlaquepaque, Jalisco, Mexico",20.6332261,-103.3984444,1680,300
+c420,"Lomas de La Victoria, Tlaquepaque, Jalisco, Mexico",20.6332261,-103.3984444,43,3
+c421,"San Miguel de Mezquitan, Guadalajara, Jalisco, Mexico",20.7008765,-103.3551189,4234,750
+c422,"Rinconada de la Joya, Zapopan, Jalisco, Mexico",20.6363045,-103.4103615,700,83
+c423,"Niños Heroes, 44260 Guadalajara, Jalisco, Mexico",20.7033436,-103.3608948,1744,365
+c424,"Colinas de Las Águilas, 45080 Zapopan, Jalisco, Mexico",20.6268104,-103.4150564,3471,441
+c425,"Las Águilas, 45080 Zapopan, Jalisco, Mexico",20.6270376,-103.4121672,9499,2507
+c426,"Observatorio, 44266 Guadalajara, Jalisco, Mexico",20.6982958,-103.3507872,925,138
+c427,"Mezquitan, 44260 Guadalajara, Jalisco, Mexico",20.695822,-103.3543969,4458,768
+c428,"Arboledas, Zapopan, Jalisco, Mexico",20.6290484,-103.4237244,7987,1893
+c429,"Las Fuentes, Zapopan, Jalisco, Mexico",20.6229814,-103.4266138,2862,663
+c430,"Centro, 44200 Guadalajara, Jalisco, Mexico",20.6866131,-103.3507872,2585,474
+c431,"Pirámides, Zapopan, Jalisco, Mexico",20.6250529,-103.4327541,663,136
+c432,"Miraflores, 44270 Guadalajara, Jalisco, Mexico",20.6971753,-103.3464556,1011,255
+c433,"Colinas de La Normal, 44270 Guadalajara, Jalisco, Mexico",20.6969546,-103.3399585,3692,1055
+c434,"Díaz Ordaz, 45080 Zapopan, Jalisco, Mexico",20.6198431,-103.4201126,4229,863
+c435,"Pinar de la Calma, 45080 Zapopan, Jalisco, Mexico",20.6201839,-103.4157787,5983,1518
+c436,"Alcalde Barranquitas, 44270 Guadalajara, Jalisco, Mexico",20.6967282,-103.342846,6922,1431
+c437,"Centro Barranquitas, 44280 Guadalajara, Jalisco, Mexico",20.6852715,-103.3399585,10232,1802
+c438,"Lomas del Country, 44610 Guadalajara, Jalisco, Mexico",20.7021029,-103.367393,3312,702
+c439,"Lomas del Country, 44610 Guadalajara, Jalisco, Mexico",20.7021029,-103.367393,2633,662
+c440,"Cerro del Tesoro, Loma Bonita Ejidal, 45081 Zapopan, Jalisco, Mexico",20.6200254,-103.4038611,2960,325
+c441,"Mezquitan Country, 44260 Guadalajara, Jalisco, Mexico",20.6953686,-103.3601728,5788,1197
+c442,"San Bernardo, Guadalajara, Jalisco, Mexico",20.6978391,-103.3612558,878,233
+c443,"Barragán Hernández, Guadalajara, Jalisco, Mexico",20.665274,-103.3435679,2380,418
+c444,"San Carlos, 44460 Guadalajara, Jalisco, Mexico",20.6589851,-103.3399585,2720,445
+c445,"San Carlos, 44460 Guadalajara, Jalisco, Mexico",20.6580261,-103.3420607,2350,360
+c446,"Los Periodistas, Zapopan, Jalisco, Mexico",20.6163551,-103.4273362,205,16
+c447,"Jardín de San Ignacio, 45040 Zapopan, Jalisco, Mexico",20.6690456,-103.4071112,2598,648
+c448,"San Cristóbal Zapotitlán, Jalisco, Mexico",20.2248249,-103.3720975,2599,307
+c449,"Riberas del Pilar, Ajijic, Jalisco, Mexico",20.2913846,-103.2216252,2089,713
+c450,"Riveras de Zula, 47890 Ocotlán, Jalisco, Mexico",20.3382565,-102.7704418,4070,621
+c451,"El Porvenir, 47882 Ocotlán, Jalisco, Mexico",20.3406045,-102.7609216,2789,115
+c452,"Lázaro Cárdenas, 47899 Ocotlán, Jal., Mexico",20.3342093,-102.7619761,6491,399
+c453,"El Rosario, 47800 Ocotlán, Jalisco, Mexico",20.349885,-102.7738548,100,19
+c454,"Los Agricultores de Ocotlán, Ocotlán, Jalisco, Mexico",20.322421,-102.7695436,757,70
+c455,"El Rosario, 47800 Ocotlán, Jalisco, Mexico",20.349885,-102.7738548,219,47
+c456,"Bellavista, 47750 Atotonilco El Alto, Jalisco, Mexico",20.5525197,-102.5147459,339,14
+c457,"La Selva, 47760 Atotonilco El Alto, Jalisco, Mexico",20.5459324,-102.5247836,544,14
+c458,"C. Garibi Rivera 19, Centro, 47750 Atotonilco el Alto, Jal., Mexico",20.5508011,-102.5080886,2241,468
+c459,"Los Naranjos, 47750 Atotonilco El Alto, Jalisco, Mexico",20.5493831,-102.5176137,246,38
+c460,"San Felipe, 47750 Atotonilco El Alto, Jalisco, Mexico",20.5482332,-102.513312,947,174
+c461,"Sagrado Corazón, 47750 Atotonilco El Alto, Jalisco, Mexico",20.5470832,-102.5090104,632,122
+c462,"Las Limas, Ayotlán, Jalisco, Mexico",20.5300393,-102.3399448,305,27
+c463,"La Charca, Ayotlán, Jalisco, Mexico",20.530245,-102.3370814,605,81
+c464,"Centro, 47930 Ayotlán, Jalisco, Mexico",20.5279136,-102.3338603,318,57
+c465,"Pozo del Padre, Ayotlán, Jalisco, Mexico",20.5335369,-102.3243763,366,25
+c466,"Las Jaras, Ayotlán, Jal., Mexico",20.536959,-102.3252849,727,75
+c467,"Miguel de La Madrid, Tequila, Jalisco, Mexico",20.876983,-103.8339439,2529,285
+c468,"Loma del Calvario 6, Lomas del Paraíso, 46400 Tequila, Jal., Mexico",20.8761348,-103.8284734,823,33
+c469,"El Rosario, 46403 Tequila, Jalisco, Mexico",20.8788192,-103.8248866,225,13
+c470,"Santa Cruz de Los Espinos, Tequila, Jalisco, Mexico",20.8750162,-103.8223506,229,21
+c471,"Bar, Internacional #613, Bar, La Escondida, 46400 Tequila, Jal., Mexico",20.878596,-103.8202224,470,26
+c472,"Internacional 549, Infonavit, 46400 Tequila, Jal., Mexico",20.8802529,-103.8273724,718,38
+c473,"López Mateos, 46400 Josefa Ortiz de Domínguez, Jal., Mexico",20.8822785,-103.8307687,851,83
+c474,"Colinas del Rosario, Tequila, Jalisco, Mexico",20.8787979,-103.8295963,703,52
+c475,"Mayahuel, 46400 Tequila, Jalisco, Mexico",20.8816337,-103.8350308,757,139
+c476,"La Muralla, 46400 Tequila, Jalisco, Mexico",20.8841563,-103.8353931,1484,242
+c477,"Unnamed Road, Obrera 1, 46400 Tequila, Jal., Mexico",20.8925342,-103.8293665,962,109
+c478,"Obrera 2, Tequila, Jalisco, Mexico",20.8901088,-103.8339439,2120,155
+c479,"46400 Ex, Hacienda de Abajo, 46400 Tequila, Jal., Mexico",20.8921801,-103.8394106,1668,172
+c480,"El Malvaste, Tequila, Jalisco, Mexico",20.8749396,-103.8143809,336,29
+c481,"Cofradía, Tequila, Jalisco, Mexico",20.8666553,-103.8353931,815,33
+c482,"2447 Niagara Falls Blvd, Buffalo, NY 14228, United States",43.0212637,-78.8219468,2337,365
+c483,"Internacional 597, La Escondida, 46400 Tequila, Jal., Mexico",20.8788067,-103.8209849,401,22
+c484,"El Amatal, El Salvador",13.4619505,-89.2451948,0,1E+33
+c485,"Las Norias, Amatitán, Jalisco, Mexico",20.8414644,-103.7355084,135,13
+c486,"Venaderos, Amatitán, Jalisco, Mexico",20.8410485,-103.733623,263,19
+c487,"Don Bosco, 45380 Amatitán, Jal., Mexico",20.8395809,-103.7293497,1284,82
+c488,"Popular Don Bosco, Amatitán, Jalisco, Mexico",20.8409573,-103.7280116,260,18
+c489,"Del Carmen 39D, 45380 Amatitán, Jal., Mexico",20.8363371,-103.7276477,129,13
+c490,"Hacienda San José del Refugio, Amatitán, Jalisco, Mexico",20.8422072,-103.7238485,56,12
+c491,"Miguel Hidalgo 199d, Sin Nombre, 45380 Amatitán, Jal., Mexico",20.8359774,-103.7336389,138,8
+c492,"El Cerrito, 45398 Amatitán, Jalisco, Mexico",20.8367071,-103.7242105,457,58
+c493,"La Orillita, Amatitán, Jalisco, Mexico",20.8307475,-103.7259152,324,34
+c494,"Centro, 45380 Amatitán, Jalisco, Mexico",20.8312484,-103.7285547,179,32
+c495,"Jardines de La Cruz, Amatitán, Jalisco, Mexico",20.8278603,-103.7343471,728,35
+c496,"Lomas de La Cruz, Amatitán, Jalisco, Mexico",20.8256133,-103.7350712,644,28
+c497,"5 de Mayo, Puesta de Sol, 45380 Amatitán, Jal., Mexico",20.8307924,-103.7368403,322,48
+c498,"Puesta de Sol, Amatitán, Jalisco, Mexico",20.8308191,-103.7383296,532,44
+c499,"Obrera, 45380 Amatitán, Jalisco, Mexico",20.8348602,-103.7379675,769,67
+c500,"La Loma, Amatitán, Jalisco, Mexico",20.8335779,-103.7357953,491,60
+c501,"Miguel Hidalgo 199d, Sin Nombre, 45380 Amatitán, Jal., Mexico",20.8359774,-103.7336389,168,7
+c502,"Centro, 45380 Amatitán, Jalisco, Mexico",20.8312484,-103.7285547,4647,681
+c503,"El Sauz, Guadalajara, Jalisco, Mexico",20.6257062,-103.3919446,9716,1334
+c504,"Canoitas, Mazamitla, Jalisco, Mexico",19.9102712,-103.0176923,1010,103
+c505,"Tierras Blancas, Las Charandas, Mazamitla, Jalisco, Mexico",19.9073867,-103.0196724,134,9
+c506,"Las Charandas, Mazamitla, Jalisco, Mexico",19.9085978,-103.0205724,810,77
+c507,"Loma Bonita, Mazamitla, Jal., Mexico",19.9122111,-103.0264599,12,1
+c508,"Paseo de Los Cazos, Loma Bonita, Mazamitla, Jalisco, Mexico",19.9120534,-103.0281329,136,15
+c509,"El Charco, 49500 Mazamitla, Jalisco, Mexico",19.9165757,-103.0212924,484,45
+c510,"Mazamitla, Jalisco, Mexico",19.9165757,-103.0212924,2906,469
+c511,"Lázaro Cárdenas, Zapotiltic, Jalisco, Mexico",19.6336132,-103.4201126,2625,325
+c512,"La Cruz, Zapotiltic, Jalisco, Mexico",19.6314489,-103.4174039,59,3
+c513,"Niños Heroes, Zapotiltic, Jal., Mexico",19.6273645,-103.4070356,480,14
+c514,"La Guadalupana, Zapotiltic, Jalisco, Mexico",19.6300679,-103.4139729,1232,193
+c515,"Capulines, Zapotiltic, Jalisco, Mexico",19.6191453,-103.418668,487,33
+c516,"5 de Noviembre, Zapotiltic, Jalisco, Mexico",19.6284262,-103.4067501,220,19
+c517,"Infonavit, 49605 Zapotiltic, Jalisco, Mexico",19.6211479,-103.4114449,795,81
+c518,"Proviposa, 49606 Zapotiltic, Jalisco, Mexico",19.6199933,-103.4219185,1382,159
+c519,"Capulines, Zapotiltic, Jalisco, Mexico",19.6191453,-103.418668,721,44
+c520,"La Estancia, Tamazula de Gordiano, Jalisco, Mexico",19.7070008,-103.2194616,75,11
+c521,"Parajes, 49653 Tamazula de Gordiano, Jalisco, Mexico",19.7006278,-103.2266737,274,33
+c522,"Agua Caliente, 49653 Tamazula de Gordiano, Jalisco, Mexico",19.6959974,-103.2349682,336,69
+c523,"Loma Bonita, Tamazula de Gordiano, Jalisco, Mexico",19.6945999,-103.2365911,200,35
+c524,"Obrera 2a. Etapa, Tamazula de Gordiano, Jalisco, Mexico",19.6939318,-103.238214,453,113
+c525,"Obrera 1a. Etapa, Tamazula de Gordiano, Jalisco, Mexico",19.6907991,-103.2410992,972,202
+c526,"De Los Maestros, Agua Caliente, 49653 Tamazula de Gordiano, Jal., Mexico",19.6983998,-103.2444444,595,90
+c527,"Lerdo de Tejada 99, Centro, 48740 El Grullo, Jal., Mexico",19.808491,-104.2172397,61,6
+c528,"49650 Tamazula de Gordiano, Jalisco, Mexico",19.6825073,-103.2447059,8492,1574
+c529,"Av. de las Flores 84, Bugambilias, 49650 Tamazula de Gordiano, Jal., Mexico",19.6702839,-103.2496176,293,44
+c530,"Bugambilias, Tamazula de Gordiano, Jalisco, Mexico",19.6669229,-103.2483126,603,79
+c531,"Cardenal, Tamazula de Gordiano, Jalisco, Mexico",19.6828363,-103.2512882,103,13
+c532,"Clavellinas, Tamazula de Gordiano, Jalisco, Mexico",19.6813813,-103.2524605,534,71
+c533,"San Juan Bosco, Tamazula de Gordiano, Jalisco, Mexico",19.6856578,-103.2659871,987,130
+c534,"Hidalgo 78, Corona Centro, 48530 Villa Corona, Jal., Mexico",20.4160992,-103.6635807,2616,420
+c535,"47280 Bajío de San José, Jalisco, Mexico",21.676969,-102.1161116,2349,306
+c536,"Misión de La Cantera, 45404 Tonalá, Jalisco, Mexico",20.6518104,-103.2681515,1195,51
+c537,"45740 Jalisco, Mexico",20.3623567,-103.7238485,2858,299
+c538,"Chapultepec Country, 44260 Guadalajara, Jalisco, Mexico",20.6955884,-103.3666709,1169,259
+c539,"Ayuntamiento, Guadalajara, Jalisco, Mexico",20.6915407,-103.3717253,2941,645
+c540,"Circunvalación Americas, Guadalajara, Jalisco, Mexico",20.697828,-103.3753356,302,61
+c541,"Italia Providencia, 44648 Guadalajara, Jalisco, Mexico",20.6945669,-103.3796682,2113,447
+c542,"Lomas de Guevara, Guadalajara, Jalisco, Mexico",20.6877121,-103.3832788,2179,581
+c543,"Providencia 2a. Secc, Guadalajara, Jalisco, Mexico",20.6944533,-103.3811124,1942,514
+c544,"Colomos Providencia, 44620 Guadalajara, Jalisco, Mexico",20.698509,-103.3666709,3759,825
+c545,"Providencia 3a. Secc, 44630 Guadalajara, Jalisco, Mexico",20.7002942,-103.3811124,1190,361
+c546,"Providencia, 44630 Guadalajara, Jalisco, Mexico",20.7019816,-103.378224,895,221
+c547,"Colinas de San Javier, 45110 Zapopan, Jalisco, Mexico",20.6978017,-103.4035,3849,659
+c548,"C. El Chaco 3200, Providencia, 44630 Guadalajara, Jal., Mexico",20.7087217,-103.3935931,1654,345
+c549,"Providencia, 44630 Guadalajara, Jalisco, Mexico",20.6996209,-103.3803903,3194,688
+c550,"Lomas de Providencia, 44647 Guadalajara, Jalisco, Mexico",20.6933256,-103.3861673,959,242
+c551,"Cerro del Tesoro, Loma Bonita Ejidal, 45081 Zapopan, Jalisco, Mexico",20.6200254,-103.4038611,4562,403
+c552,"Colinas de las Águilas, 45080 Zapopan, Jalisco, Mexico",20.6220981,-103.4100003,2353,570
+c553,"Loma Bonita Ejidal, 45085 Zapopan, Jalisco, Mexico",20.6306388,-103.4035,9905,1895
+c554,"Prados Providencia, 44670 Guadalajara, Jalisco, Mexico",20.6870304,-103.3919446,4964,1028
+c555,"Monraz, Guadalajara, Jalisco, Mexico",20.6838829,-103.3948334,2823,537
+c556,"Del Periodista, 44430 Guadalajara, Jalisco, Mexico",20.6540473,-103.3284089,3388,661
+c557,"Colón Industrial, 44940 Guadalajara, Jalisco, Mexico",20.6383054,-103.3616168,796,23
+c558,"Atlas, 44870 Guadalajara, Jalisco, Mexico",20.6468582,-103.3269652,15987,3071
+c559,"Bosques del Boulevard, Guadalajara, Jalisco, Mexico",20.644782,-103.32083,1586,332
+c560,"Jardines del Rosario, 45404 Tonalá, Jalisco, Mexico",20.6457425,-103.2616584,5105,1009
+c561,"45480 Cuquío, Jalisco, Mexico",20.9283407,-103.0234525,1155,114
+c562,"C. Ejido 170, 45480 Cuquío, Jal., Mexico",20.9315636,-103.0288954,451,89
+c563,"Calle Hermenegildo Galeana 36, 45480 Cuquío, Jal., Mexico",20.927824,-103.024437,272,29
+c564,"540,, C. José Ayala 470, Cuquío, Jal., Mexico",20.9325479,-103.0234106,134,29
+c565,"C. Morelos 290, Cuquío, Jal., Mexico",20.9292611,-103.017749,301,57
+c566,"Calle Cuauhtémoc 564, Centro, 45480 Cuquío, Jal., Mexico",20.930368,-103.0286171,431,116
+c567,"LAS CAPILLITAS 45480, Cuquío",20.92827229,-103.0231606,1410,251
+c568,"Calle Álvaro Obregón 600 Segundo piso, Centro, 45480 Cuquío, Jal., Mexico",20.9298722,-103.0289156,424,57
+c569,"El Rosario, 44890 Guadalajara, Jalisco, Mexico",20.6396692,-103.3255216,3030,595
+c570,"Ferrocarril, 44440 Guadalajara, Jalisco, Mexico",20.6455032,-103.3442898,9310,1448
+c571,"Sevilla, Plaza Guadalupe, La Gloria, 45030 Zapopan, Jal., Mexico",20.6544949,-103.4417262,933,95
+c572,"Sin Nombre, Zapopan, Jalisco, Mexico",20.6710109,-103.4562345,6,1
+c573,"Rincón de La Agua Azul, Guadalajara, Jalisco, Mexico",20.652913,-103.352231,195,19
+c574,"Universitaria, 45110 Zapopan, Jalisco, Mexico",20.6939707,-103.4150564,2801,550
+c575,"Lomas de San Pedro, Guadalajara, Jalisco, Mexico",20.6373109,-103.3229953,1435,258
+c576,"Valle del Alamo, 44440 Guadalajara, Jalisco, Mexico",20.6414592,-103.3446508,1087,318
+c577,"San Arturo 38, Colorado, 45205 Zapopan, Jal., Mexico",20.7699703,-103.3605651,711,47
+c578,"El Dean, Guadalajara, Jalisco, Mexico",20.6349423,-103.3486213,3647,676
+c579,"Higuerillas, 44470 Guadalajara, Jalisco, Mexico",20.6302247,-103.3482604,862,176
+c580,"La Nogalera, 44470 Guadalajara, Jalisco, Mexico",20.6326994,-103.3399585,3471,535
+c581,"45190 Zapopan, Jalisco, Mexico",20.7209881,-103.3500652,9987,1777
+c582,"Miravalle, 44990 Guadalajara, Jalisco, Mexico",20.6171935,-103.3515091,1946,417
+c583,"José Clemente Orozco, 44970 Guadalajara, Jalisco, Mexico",20.6182059,-103.3478994,1844,414
+c584,"Colón Industrial, 44930 Guadalajara, Jalisco, Mexico",20.6412202,-103.3710032,4599,1069
+c585,"18 de Marzo, 44960 Guadalajara, Jalisco, Mexico",20.6352663,-103.3724473,4970,1152
+c586,"Anexo 18 de Marzo, 44960 Guadalajara, Jalisco, Mexico",20.6345898,-103.3764187,1848,371
+c587,"Av Topacio 2842, Victoria, 45060 Zapopan, Jal., Mexico",20.644585,-103.3949697,3641,998
+c588,"Lomas de Polanco, 44960 Guadalajara, Jalisco, Mexico",20.6315593,-103.3731694,21615,3511
+c589,"El Sauz, Guadalajara, Jalisco, Mexico",20.6257062,-103.3919446,14077,1626
+c590,"Miravalle, 44990 Guadalajara, Jalisco, Mexico",20.6171935,-103.3515091,18638,3176
+c591,"El Rastro, Guadalajara, Jalisco, Mexico",20.6267414,-103.3507872,1676,313
+c592,"Av. Miguel López de Legaspi 26, López de Legaspi, 44970 Guadalajara, Jal., Mexico",20.628987,-103.3509236,1538,332
+c593,"El Mante 200 45080, 45080 San Pedro Tlaquepaque, Jal., Mexico",20.6138134,-103.4202365,235,26
+c594,"Villa Hermosa, 44948 Guadalajara, Jalisco, Mexico",20.6239339,-103.3493433,3284,500
+c595,"Colinas de San Javier, 45110 Zapopan, Jalisco, Mexico",20.6978017,-103.4035,1034,236
+c596,"Echeverría, 44970 Guadalajara, Jalisco, Mexico",20.6250506,-103.3630608,17277,2634
+c597,"Lomas de Polanco, 44960 Guadalajara, Jalisco, Mexico",20.6315593,-103.3731694,12955,1833
+c598,"Sta Rita, 45127 Zapopan, Jalisco, Mexico",20.6836062,-103.4035697,417,146
+c599,"C. Manuel gomez Ibarra 4470, Miravalle, 44990 Guadalajara, Jal., Mexico",20.6100683,-103.3449256,2833,425
+c600,"Colón Industrial, 44940 Guadalajara, Jalisco, Mexico",20.6383054,-103.3616168,6916,925
+c601,"Francisco Villa, Guadalajara, Jalisco, Mexico",20.6192639,-103.3670319,2353,325
+c602,"1o. de Mayo, 44970 Guadalajara, Jalisco, Mexico",20.6225824,-103.3572848,4018,624
+c603,"Polanquito, 44969 Guadalajara, Jalisco, Mexico",20.6177446,-103.3724473,6225,983
+c604,"Polanquito, 44969 Guadalajara, Jalisco, Mexico",20.6177446,-103.3724473,2214,258
+c605,"Lomas de Polanco, 44960 Guadalajara, Jalisco, Mexico",20.6315593,-103.3731694,4988,796
+c606,"Colón Industrial, 44940 Guadalajara, Jalisco, Mexico",20.6383054,-103.3616168,8151,1114
+c607,"El Carmen, 44980 Guadalajara, Jalisco, Mexico",20.6204049,-103.3858889,6198,845
+c608,"Lázaro Cárdenas, 44490 Guadalajara, Jalisco, Mexico",20.6297821,-103.3305743,9773,1185
+c609,"Balcones del Cuatro, 44984 Guadalajara, Jalisco, Mexico",20.6160582,-103.3753356,3753,463
+c610,"Revolucionaria, 44985 Guadalajara, Jalisco, Mexico",20.6130262,-103.374433,886,105
+c611,"Revolucionaria, 44985 Guadalajara, Jalisco, Mexico",20.6130262,-103.374433,1023,128
+c612,"Emiliano Zapata, 44980 Guadalajara, Jalisco, Mexico",20.6184108,-103.3849036,843,124
+c613,"Revolucionaria, 44985 Guadalajara, Jalisco, Mexico",20.6130262,-103.374433,3142,462
+c614,"Nueva España, 45606 Tlaquepaque, Jalisco, Mexico",20.6118908,-103.3935695,2750,367
+c615,"LOS COLORINES 44985, Guadalajara,San Pedro Tlaquepaque",20.55509006,-103.4542957,3065,265
+c616,"San Carlos, 44460 Guadalajara, Jalisco, Mexico",20.6580261,-103.3420607,2350,360
+c617,"Del Periodista, 44430 Guadalajara, Jalisco, Mexico",20.6613472,-103.3331008,611,92
+c618,"Panorámica de Huentitán, Guadalajara, Jalisco, Mexico",20.7365162,-103.3103647,2256,396
+c619,"El Verde( Planetario), Guadalajara, Jalisco, Mexico",20.7198892,-103.3081996,1429,169
+c620,"La Joyita, 44390 Guadalajara, Jalisco, Mexico",20.7189966,-103.2916016,1158,120
+c621,"Colinas de Huentitán, Guadalajara, Jalisco, Mexico",20.7259574,-103.3053128,4427,301
+c622,"Huentitán El Alto, 44390 Guadalajara, Jalisco, Mexico",20.7176456,-103.2995395,5844,623
+c623,"San Miguel de Huentitán, Guadalajara, Jalisco, Mexico",20.7122546,-103.2937664,10970,1535
+c624,"La Joya, 44300 Guadalajara, Jalisco, Mexico",20.710736,-103.2991787,1691,245
+c625,"Margarita Maza de Juárez, 44300 Guadalajara, Jalisco, Mexico",20.7107907,-103.3031478,3413,684
+c626,"Popular NO.9, 44300 Guadalajara, Jalisco, Mexico",20.7180874,-103.3172212,726,121
+c627,"San Patricio, Guadalajara, Jalisco, Mexico",20.7175832,-103.3143342,949,142
+c628,"Jardines de Santa Isabel, Guadalajara, Jalisco, Mexico",20.7146077,-103.3103647,7667,1343
+c629,"Infonavit Estadio, 44307 Guadalajara, Jalisco, Mexico",20.7140427,-103.3175821,4370,583
+c630,"La Esperanza (La Federacha ), 44300 Guadalajara, Jalisco, Mexico",20.7079788,-103.3110864,14972,2327
+c631,"Av. Belisario Domínguez, Colonia Belisario Domínguez, 44320 Guadalajara, Jal., Mexico",20.6999923,-103.319133,8765,1602
+c632,"San Vicente, 44330 Guadalajara, Jalisco, Mexico",20.7021367,-103.3110864,8225,1401
+c633,"Monumental, 44320 Guadalajara, Jalisco, Mexico",20.7010067,-103.3255216,7726,1956
+c634,"Circunvalación Belisario, 44330 Guadalajara, Jalisco, Mexico",20.6956169,-103.3197474,9190,1615
+c635,"San Marcos, 44330 Guadalajara, Jalisco, Mexico",20.698316,-103.3132516,8994,1587
+c636,"Santa Rosa, Guadalajara, Jalisco, Mexico",20.700341,-103.3060345,3977,604
+c637,"Vicente Guerrero, 44330 Guadalajara, Jalisco, Mexico",20.6958465,-103.3074779,2327,300
+c638,"Oblatos Pte., 44700 Guadalajara, Jalisco, Mexico",20.6960722,-103.3045911,2385,385
+c639,"Guadalajara Oriente, Guadalajara Ote, 44700 Guadalajara, Jalisco, Mexico",20.7020744,-103.2983582,4427,663
+c640,"Santa Cecilia, Guadalajara, Jalisco, Mexico",20.7037164,-103.29088,22853,3267
+c641,"Río Verde, Guadalajara, Jalisco, Mexico",20.6987733,-103.2887152,2995,517
+c642,"Tetlán Río Verde, Guadalajara, Jalisco, Mexico",20.7020326,-103.2843857,4566,777
+c643,"Lomas de Río Verde, Guadalajara, Jalisco, Mexico",20.6993366,-103.2814995,7077,979
+c644,"Jardines de La Barranca, 44729 Guadalajara, Jalisco, Mexico",20.6970908,-103.2728412,1701,213
+c645,"El Bethel, 44720 Guadalajara, Jalisco, Mexico",20.6912481,-103.2728412,8987,921
+c646,"Villas de Guadalupe, 45189 Zapopan, Jalisco, Mexico",20.756492,-103.3442898,3872,571
+c647,"Heliodoro Hernández Loza, Guadalajara, Jalisco, Mexico",20.6931577,-103.2764487,16904,2177
+c648,"San José Río Verde, Guadalajara, Jalisco, Mexico",20.6949547,-103.2814995,7181,979
+c649,"Lomas de Oblatos, 44720 Guadalajara, Jalisco, Mexico",20.6892247,-103.2800564,5123,586
+c650,"Oblatos Pte., 44700 Guadalajara, Jalisco, Mexico",20.6958496,-103.2980962,26844,4252
+c651,"Área Militar de Vallarta, Puerto Vallarta, Jalisco, Mexico",20.689828,-105.2399596,244,14
+c652,"48335 Puerto Vallarta, Jalisco, Mexico",20.6732044,-105.247274,2066,180
+c653,"Marina Vallarta, 48335 Puerto Vallarta, Jalisco, Mexico",20.6639696,-105.2531258,1441,457
+c654,"Las Glorias, 48333 Puerto Vallarta, Jalisco, Mexico",20.6526208,-105.2421539,67,19
+c655,"Área Militar de Vallarta, Puerto Vallarta, Jalisco, Mexico",20.6574363,-105.2410567,75,0
+c656,"Educación, 48338 Puerto Vallarta, Jalisco, Mexico",20.6623834,-105.2384967,1377,132
+c657,"Agua Zarca, Puerto Vallarta, Jalisco, Mexico",20.6657454,-105.2293542,547,44
+c658,"La Aurora, 48338 Puerto Vallarta, Jalisco, Mexico",20.6589523,-105.2363025,5656,558
+c659,"Primavera, 43388 Puerto Vallarta, Jalisco, Mexico",20.6564447,-105.2339254,288,23
+c660,"Monte, Sinaí L4, Los Llanitos, 48280 Puerto Vallarta, Jal., Mexico",20.705447,-105.2032056,516,20
+c661,"Puerto Vallarta, Jalisco, Mexico",20.653407,-105.2253316,501,58
+c662,"Las Palmas 140, Villa Las Flores, 48335 Puerto Vallarta, Jal., Mexico",20.6719317,-105.2479986,1669,151
+c663,"Lindavista, 47730 Tototlan, Jalisco, Mexico",20.5471344,-102.7860708,2108,110
+c664,"Teodosio R. Guevara, 47730 Tototlan, Jalisco, Mexico",20.5413914,-102.7846336,1812,170
+c665,"Ponciano Arriaga 226, Florida, 47820 Ocotlán, Jal., Mexico",20.3592048,-102.7778619,855,171
+c666,"45966 Poncitlan, Jalisco, Mexico",20.3051594,-102.8350134,1969,288
+c667,"El Seminario, Jamay, Jalisco, Mexico",20.2945254,-102.7214124,357,34
+c668,"De Guadalupe 55, Tepeyac, 47902 Jamay, Jal., Mexico",20.2960983,-102.7106403,241,2
+c669,"Tepeyac, San Isidro, 47900 Jamay, Jal., Mexico",20.2956594,-102.7104277,1145,111
+c670,"San Isidro, 47902 Jamay, Jal., Mexico",20.2975096,-102.709451,832,46
+c671,"San Isidro, 47900 Jamay, Jalisco, Mexico",20.2917656,-102.7092031,1975,264
+c672,"El Trompo, Jamay, Jalisco, Mexico",20.2973582,-102.7027399,848,40
+c673,"Solidaridad, Jamay, Jalisco, Mexico",20.3009617,-102.703458,326,10
+c674,"El Guayabal, Jamay, Jalisco, Mexico",20.289812,-102.7009446,285,32
+c675,"San Isidro, 47900 Jamay, Jalisco, Mexico",20.2917656,-102.7092031,1118,188
+c676,"Centro, Jamay, Jalisco, Mexico",20.2917656,-102.7092031,6933,1200
+c677,"El Potrero, 47829 Ocotlán, Jalisco, Mexico",20.367007,-102.7796034,7522,584
+c678,"El Rosario, 47800 Ocotlán, Jalisco, Mexico",20.349885,-102.7738548,1295,200
+c679,"El Rosario, 47800 Ocotlán, Jalisco, Mexico",20.349885,-102.7738548,3017,425
+c680,"Florida, 47820 Ocotlán, Jalisco, Mexico",20.3600146,-102.7752919,5561,1215
+c681,"San Felipe, 47810 Ocotlán, Jal., Mexico",20.3661546,-102.7690307,779,127
+c682,"La Floresta, 47810 Ocotlán, Jal., Mexico",20.3662662,-102.7704511,1060,197
+c683,"Morelos 385, Florida, 47800 Ocotlán, Jal., Mexico",20.3517381,-102.7745499,581,132
+c684,"Linda Vista, 47810 Ocotlán, Jalisco, Mexico",20.3712804,-102.7663103,698,43
+c685,"47830 Ocotlán, Jalisco, Mexico",20.3604397,-102.7695436,3354,560
+c686,"San Vicente, 47850 Ocotlán, Jalisco, Mexico",20.3547373,-102.7774476,1653,458
+c687,"Camino Real, Ocotlán, Jalisco, Mexico",20.3575555,-102.7788848,774,152
+c688,"El Rosario, 47800 Ocotlán, Jalisco, Mexico",20.349885,-102.7738548,1971,71
+c689,"El Potrero, 47849 Ocotlán, Jalisco, Mexico",20.3588682,-102.783376,104,3
+c690,"Zaragoza 79, Centro, 45950 Poncitlán, Jal., Mexico",20.3837037,-102.9286321,2496,242
+c691,"Mascota, 47860 Ocotlán, Jalisco, Mexico",20.3518783,-102.7666696,7290,1514
+c692,"El Rosario, 47800 Ocotlán, Jalisco, Mexico",20.349885,-102.7738548,5136,599
+c693,"Hidalgo Sn, Ocotlán Centro, 47800 Poncitlán, Jal., Mexico",20.3780612,-102.9282935,4679,1176
+c694,"Nuevo Porvenir, 47862 Ocotlán, Jalisco, Mexico",20.3498765,-102.7591255,547,65
+c695,"Villas de Zula, Ocotlán, Jalisco, Mexico",20.3485941,-102.7616401,2600,301
+c696,"Duque, Ocotlán, Jalisco, Mexico",20.3463793,-102.7631669,0,0
+c697,"Marcos Castellanos, 47870 Ocotlán, Jalisco, Mexico",20.3401149,-102.7774476,2378,364
+c698,"El Nuevo Fuerte, 47899 Ocotlán, Jalisco, Mexico",20.3341188,-102.7695436,7254,629
+c699,"6 de Noviembre, 20 de Noviembre 29, Marcos Castellanos, 47800 Ocotlán, Jal., Mexico",20.3431592,-102.774278,1390,180
+c700,"El Rosario, 47800 Ocotlán, Jalisco, Mexico",20.349885,-102.7738548,2807,286
+c701,"Ejidal, Encarnación de Díaz, Jalisco, Mexico",21.5278471,-102.2444206,849,113
+c702,"San Pablo, 47270 Encarnación de Díaz, Jalisco, Mexico",21.5252111,-102.2354806,1042,210
+c703,"Niños Heroes, Encarnación de Díaz, Jalisco, Mexico",21.5248486,-102.2304745,2509,427
+c704,"Ferrocarril, Encarnación de Díaz, Jalisco, Mexico",21.5198013,-102.224396,293,52
+c705,"El Refugio, Encarnación de Díaz, Jalisco, Mexico",21.518494,-102.2222507,443,71
+c706,"Prados de La Estación, 47270 Encarnación de Díaz, Jalisco, Mexico",21.517051,-102.2268988,1074,67
+c707,"Lomas de La Estación, Encarnación de Díaz, Jalisco, Mexico",21.5128649,-102.2240384,862,110
+c708,"Las Americas, Encarnación de Díaz, Jalisco, Mexico",21.5204737,-102.235123,316,17
+c709,"La Esperanza, Encarnación de Díaz, Jalisco, Mexico",21.5331363,-102.2422749,419,44
+c710,"47270 Encarnación de Díaz, Jalisco, Mexico",21.5244252,-102.2361958,721,178
+c711,"Puente Chico, 47270 Encarnación de Díaz, Jalisco, Mexico",21.5294718,-102.2422749,603,98
+c712,"Colinas de La Cruz, Tonalá, Jalisco, Mexico",20.6250704,-103.2739234,1649,165
+c713,"Alto, 47270 Encarnación de Díaz, Jalisco, Mexico",21.5308625,-102.2383413,1297,235
+c714,"Santa Fe, Encarnación de Díaz, Jalisco, Mexico",21.5359177,-102.2344078,174,15
+c715,"Balcones de Santa Cruz, 45403 Tonalá, Jalisco, Mexico",20.6260534,-103.2730216,225,20
+c716,"España, 47270 Encarnación de Díaz, Jalisco, Mexico",21.5291626,-102.2365533,734,115
+c717,"Pedregal, Encarnación de Díaz, Jalisco, Mexico",21.5297144,-102.2340502,624,76
+c718,"El Toreo, Encarnación de Díaz, Jalisco, Mexico",21.5302132,-102.2322624,352,26
+c719,"La Quinta Catalina, 45402 Tonalá, Jalisco, Mexico",20.6220931,-103.2746449,637,80
+c720,"La Villita, Encarnación de Díaz, Jalisco, Mexico",21.5352599,-102.2383413,213,33
+c721,"Larguero, 45402 Tonalá, Jalisco, Mexico",20.6222054,-103.2732019,369,51
+c722,"Lomas del Valle, 47460 Lagos de Moreno, Jalisco, Mexico",21.3558212,-101.9440789,4488,721
+c723,"Colinas del Valle, 47460 Lagos de Moreno, Jalisco, Mexico",21.3540473,-101.9483585,2259,163
+c724,"Paseos de La Montaña, Lagos de Moreno, Jalisco, Mexico",21.3582431,-101.9512117,2644,294
+c725,"Bugambilias, 47474 Lagos de Moreno, Jalisco, Mexico",21.3449389,-101.9526383,1187,60
+c726,"Municipio Libre, Lagos de Moreno, Jalisco, Mexico",21.3330502,-101.9624469,709,44
+c727,"La Esmeralda, 47472 Lagos de Moreno, Jalisco, Mexico",21.3320441,-101.9598609,658,20
+c728,"Santa Elena, 47487 Lagos de Moreno, Jalisco, Mexico",21.3477522,-101.9287449,253,28
+c729,"Las Palmas, 47440 Lagos de Moreno, Jalisco, Mexico",21.3648592,-101.9151958,606,187
+c730,"El Mezquital, 47457 Lagos de Moreno, Jalisco, Mexico",21.3597005,-101.889885,782,69
+c731,"Bajo de Moya, 47440 Lagos de Moreno, Jalisco, Mexico",21.3605952,-101.9184047,989,108
+c732,"Las Huertitas, Lagos de Moreno, Jalisco, Mexico",21.3570808,-101.9162654,3721,146
+c733,"Vista Hermosa, 47443 Lagos de Moreno, Jalisco, Mexico",21.3610351,-101.9020049,2574,173
+c734,"Santo Domingo, Ixtapa, Jalisco, Mexico",20.7193746,-105.1938858,596,5
+c735,"El Palmar de Ixtapa, Ixtapa, Jalisco, Mexico",20.7166699,-105.1957139,321,19
+c736,"Santo Domingo, 48283 Ixtapa, Jalisco, Mexico",20.7145627,-105.1947653,1085,53
+c737,"Centro de Salud, 48280 Ixtapa, Jalisco, Mexico",20.7159455,-105.1997358,2139,115
+c738,"Las Glorias, 48333 Puerto Vallarta, Jalisco, Mexico",20.6526208,-105.2421539,307,57
+c739,"Versalles, 48310 Puerto Vallarta, Jalisco, Mexico",20.6399504,-105.2297199,1642,244
+c740,"Versalles, 48310 Puerto Vallarta, Jalisco, Mexico",20.6399504,-105.2297199,1715,285
+c741,"Olímpica, Puerto Vallarta, Jalisco, Mexico",20.6288008,-105.2286228,125,19
+c742,"Lázaro Cárdenas, 48330 Puerto Vallarta, Jalisco, Mexico",20.6256993,-105.2267944,4414,636
+c743,"La Vena, 48320 Puerto Vallarta, Jalisco, Mexico",20.6327574,-105.2249659,661,105
+c744,"Valentín Gómez Farias, 48320 Puerto Vallarta, Jalisco, Mexico",20.6307116,-105.2235032,2599,382
+c745,"Las Gaviotas, 49328 Puerto Vallarta, Jalisco, Mexico",20.6345156,-105.220589,1365,278
+c746,"Niños Heroes, 48325 Puerto Vallarta, Jalisco, Mexico",20.6326224,-105.2183838,630,66
+c747,"1o. de Mayo, 48325 Puerto Vallarta, Jalisco, Mexico",20.6301808,-105.2172868,2896,377
+c748,"La Primavera, 48325 Puerto Vallarta, Jalisco, Mexico",20.6328171,-105.2121675,2966,229
+c749,"Del Mar, 48344 Puerto Vallarta, Jalisco, Mexico",20.6338707,-105.208511,1284,73
+c750,"Presidentes Municipales, 48344 Puerto Vallarta, Jalisco, Mexico",20.6370358,-105.2055859,1939,111
+c751,"Los Ramblases, 48343 Puerto Vallarta, Jalisco, Mexico",20.6291229,-105.2128989,6835,575
+c752,"La Pedrera, Puerto Vallarta, Jalisco, Mexico",20.6219968,-105.2114362,1088,58
+c753,"Bugambilias, Puerto Vallarta, Jalisco, Mexico",20.623186,-105.2143615,833,43
+c754,"La Herradura, Puerto Vallarta, Jalisco, Mexico",20.6201521,-105.2158241,822,69
+c755,"48390, Cda. de Los Pinos 5, Amapas - Conchas Chinas, Puerto Vallarta, Jal., Mexico",20.5941158,-105.239653,1291,166
+c756,"Col. Campestre Las Palmas, 48343 Puerto Vallarta, Jalisco, Mexico",20.6277392,-105.2161898,1302,95
+c757,"De La Alegría s/n, Int. 126, Hermosa Provincia, Puerto Vallarta, Jal., Mexico",20.6261986,-105.2228071,1027,114
+c758,"Bobadilla, 48298 Puerto Vallarta, Jalisco, Mexico",20.6559126,-105.2216748,2719,328
+c759,"La Floresta, 48290 Puerto Vallarta, Jalisco, Mexico",20.6639613,-105.2209435,6331,446
+c760,"Jardines del Bosque, Puerto Vallarta, Jalisco, Mexico",20.6757015,-105.2114362,949,48
+c761,"Bosques del Progreso, Puerto Vallarta, Jalisco, Mexico",20.6774157,-105.208511,1154,67
+c762,"Laguna del Valle, Puerto Vallarta, Jalisco, Mexico",20.677611,-105.2022952,1974,139
+c763,"Lomas del Progreso, 48290 Puerto Vallarta, Jalisco, Mexico",20.6731897,-105.2010155,606,46
+c764,"El Salitrillo, Puerto Vallarta, Jalisco, Mexico",20.6754317,-105.1982733,783,38
+c765,"12 de Octubre, Puerto Vallarta, Jalisco, Mexico",20.6726597,-105.1968108,1147,61
+c766,"Nevado de Toluca 554, Volcanes de Vallarta, 48290 Puerto Vallarta, Jal., Mexico",20.6746081,-105.1828081,2053,113
+c767,"Vistas del Mar, Puerto Vallarta, Jalisco, Mexico",20.6676403,-105.1880361,1079,72
+c768,"Joyas del Pedregal, 48290 Puerto Vallarta, Jalisco, Mexico",20.6656642,-105.1938858,2364,190
+c769,"La Playita, 48296 Puerto Vallarta, Jalisco, Mexico",20.6508947,-105.2128989,424,45
+c770,"La Playita, 48296 Puerto Vallarta, Jalisco, Mexico",20.6508947,-105.2128989,2074,265
+c771,"Luis Donaldo Colosio, Degollado, Jalisco, Mexico",20.4551382,-102.136831,787,22
+c772,"San Gabriel, 47980 Degollado, Jalisco, Mexico",20.4444016,-102.1332584,497,47
+c773,"San Gabriel, Degollado, Jalisco, Mexico",20.4521074,-102.1382601,1792,258
+c774,"Solidaridad, Degollado, Jalisco, Mexico",20.4479349,-102.1246847,1231,128
+c775,"Santa Cecilia, Degollado, Jalisco, Mexico",20.4484162,-102.128257,1034,158
+c776,"South San Francisco 294, Infonavit Progreso, 47760 Atotonilco el Alto, Jal., Mexico",20.5515561,-102.5042429,276,31
+c777,"San Gabriel, 47980 Degollado, Jalisco, Mexico",20.4444016,-102.1332584,4454,819
+c778,"San Javier, Tototlan, Jalisco, Mexico",20.5483796,-102.8036784,420,36
+c779,"Providencia, Tototlan, Jalisco, Mexico",20.544492,-102.8018816,874,99
+c780,"Adolfo López Mateos, 47730 Tototlan, Jalisco, Mexico",20.5385715,-102.7979287,311,58
+c781,"49760 Copala, Jalisco, Mexico",19.6104195,-103.7709177,3177,409
+c782,"El Cerrito, El Grullo, Jalisco, Mexico",19.8117178,-104.2156145,1215,125
+c783,"Pocito Santo, El Grullo, Jalisco, Mexico",19.8086095,-104.2090753,1376,192
+c784,"Mirador del Rosal, El Grullo, Jalisco, Mexico",19.8067208,-104.2054425,262,15
+c785,"Oriente Primera Secc, 48743 El Grullo, Jalisco, Mexico",19.8035772,-104.2083487,870,157
+c786,"Jardines de Manantlán, 48743 El Grullo, Jalisco, Mexico",19.8024331,-104.1999935,471,49
+c787,"Circunvalación Ote. 2, Centro, 48740 El Grullo, Jal., Mexico",19.8001775,-104.2173392,539,9
+c788,"9FWR+467, C. 19, Moca 56000, Dominican Republic",19.3952846,-70.509468,0,0
+c789,"DIVINO ROSARIO 46440, Hostotipaquillo",21.05632919,-104.0485958,229,28
+c790,"Hidalgo número 1, 46440 Hostotipaquillo, Jal., Mexico",21.058206,-104.0507901,283,44
+c791,"Los Manguitos, 45405 Tonalá, Jal., Mexico",20.6633219,-103.259831,1971,150
+c792,"Oriente Primera Secc, 48740 El Grullo, Jalisco, Mexico",19.8063335,-104.2192475,1303,176
+c793,"La Pila, Tonalá, Jalisco, Mexico",20.6596753,-103.2656264,2251,191
+c794,"Lomas del Manantial, 45402 Tonalá, Jalisco, Mexico",20.6273169,-103.2685123,2440,197
+c795,"Zalatitán, 45405 Tonalá, Jalisco, Mexico",20.6573412,-103.2611103,5525,732
+c796,"Santa Cruz de Los Espinos, 46403 Tequila, Jalisco, Mexico",20.8775515,-103.822367,1137,158
+c797,"Hidalgo 23, 46440 Hostotipaquillo, Jal., Mexico",21.05873,-104.0516729,276,40
+c798,"Circunvalación 81, Centro, 48740 El Grullo, Jal., Mexico",19.8003269,-104.2196667,625,68
+c799,"Altamira, 45400 Tonalá, Jalisco, Mexico",20.6303139,-103.2322634,5475,692
+c800,"46440 Hostotipaquillo, Jalisco, Mexico",21.0584873,-104.0505112,422,55
+c801,"Juárez 4, 46440 Hostotipaquillo, Jal., Mexico",21.0585828,-104.0521265,628,72
+c802,"José María Mercado, Hostotipaquillo, Jal., Mexico",21.0597163,-104.0499345,97,13
+c803,"46104 Villa Guerrero, Jalisco, Mexico",21.9808156,-103.5933601,79,9
+c804,"La Flores, El Grullo, Jalisco, Mexico",19.7992192,-104.2217907,482,67
+c805,"Teposilama, El Grullo, Jalisco, Mexico",19.7970429,-104.224205,462,59
+c806,"Santa Cecilia, El Grullo, Jalisco, Mexico",19.8079868,-104.2257872,2010,329
+c807,"Loma Bonita I, 45405 Tonalá, Jalisco, Mexico",20.6546183,-103.2555264,4019,535
+c808,"San Pedro, El Grullo, Jalisco, Mexico",19.8021689,-104.2257872,125,38
+c809,"Zaragoza 100, 46100 Villa Guerrero, Jal., Mexico",21.9827088,-103.5928848,283,65
+c810,"Loma Bonita II, 45405 Tonalá, Jalisco, Mexico",20.657764,-103.2526408,1976,179
+c811,"Lerdo de Tejada 51C, 46100 Villa Guerrero, Jal., Mexico",21.9794615,-103.5925717,782,147
+c812,"10 de Mayo, 48744 El Grullo, Jal., Mexico",19.8114958,-104.2295838,280,21
+c813,"46100 Villa Guerrero, Jalisco, Mexico",21.9844166,-103.5906965,379,49
+c814,"Las Torres, 45405 Tonalá, Jalisco, Mexico",20.6650677,-103.2526408,1165,97
+c815,"Vallarta #7, Barrio Verde, 46100 Villa Guerrero, Jal., Mexico",21.9822508,-103.5914551,412,66
+c816,"46114 Villa Guerrero, Jalisco, Mexico",21.9814342,-103.5835383,313,63
+c817,"46100 Villa Guerrero, Jalisco, Mexico",21.9844166,-103.5906965,424,53
+c818,"Arroyo Seco, Basilio Badillo II, 45406 Tonalá, Jal., Mexico",20.6637678,-103.2488598,2561,168
+c819,"La Ladrillera, 45428 Tonalá, Jalisco, Mexico",20.5923616,-103.2295587,1195,78
+c820,"El Pedregal, 45402 Tonalá, Jalisco, Mexico",20.6136931,-103.262921,83,3
+c821,"La Presa, Zapotiltic, Jalisco, Mexico",19.6350387,-103.4181262,363,20
+c822,"Mirador del Sol, 45400 Tonalá, Jalisco, Mexico",20.6194989,-103.2328044,132,8
+c823,"Colinde, Zapotiltic, Jalisco, Mexico",19.6325815,-103.4096392,338,21
+c824,"Paseo de las Cañadas, Jalisco, Mexico",20.6232462,-103.1985488,2332,95
+c825,"El Grillo, Zapopan, Jalisco, Mexico",20.7346756,-103.3710032,1309,122
+c826,"Centro, Av. Tonaltecas 115, Tonalá Centro, 45400 Tonalá, Jal., Mexico",20.6230465,-103.2465948,64,1
+c827,"LAZARO CARDENAS 49657, Tamazula de Gordiano",20.67931818,-103.2579597,663,46
+c828,"Av. De los Pinos, Bugambilias, 49654 Tamazula de Gordiano, Jal., Mexico",19.6708974,-103.2516427,75,8
+c829,"Morelos Nte., 49615 El Rincón, Jal., Mexico",19.6685263,-103.4011357,550,40
+c830,"Lázaro Cárdenas, Zapotiltic, Jalisco, Mexico",19.6336132,-103.4201126,756,65
+c831,"EL RINCON DEL AGUA 49630, Zapotiltic",20.65236528,-103.3527657,182,19
+c832,"Av. Juan Manuel Ruvalcaba 139, Santa Lucía, 45200 Zapopan, Jal., Mexico",20.8015927,-103.4940123,699,25
+c833,"Av. Camino a Bosque de San Isidro 91, Villas de Zapopan, 45130 Zapopan, Jal., Mexico",20.7486756,-103.3869806,94,7
+c834,"Av. Obreros de Cananea 2312, Constitución, 45184 Zapopan, Jal., Mexico",20.7309859,-103.373167,192,12
+c835,"45480 Cuquío, Jalisco, Mexico",20.9283407,-103.0234525,356,14
+c836,"C. Pradera de Zapopan, 45200 Tesistán, Jal., Mexico",20.8107672,-103.4850776,299,18
+c837,"Av. Lapizlázuli 3445, Jardines de La Cruz, 45088 Guadalajara, Jal., Mexico",20.6458652,-103.4043216,154,5
+c838,"Sta. Fe, Villas de Nuevo México, Hogares de Nuevo México, 45138 Zapopan, Jal., Mexico",20.763873,-103.4306538,99,11
+c839,"San Juan, La Union, Philippines",16.6775662,120.3958176,0,0
+c840,"PRADERAS DE TOLIMAN 49650, Tamazula de Gordiano",19.6003928,-103.9136458,183,5
+c841,"Lomas de La Primavera, Colinas de la Primavera, 45065 Zapopan, Jalisco, Mexico",20.6462198,-103.478355,1007,51
+c842,"El Vado, Jalisco, Mexico",20.6089501,-103.1575472,633,47
+c843,"Sta. Isabel, 45420 Tonalá, Jal., Mexico",20.5866606,-103.2488295,428,25
+c844,"Sta. Isabel, 45420 Tonalá, Jal., Mexico",20.5866606,-103.2488295,100,13
+c845,"Hacienda Real, 45428 Tonalá, Jalisco, Mexico",20.5913521,-103.233165,12949,689
+c846,"Pueblito del Sol, 45400 Tonalá, Jalisco, Mexico",20.6197819,-103.2385746,679,66
+c847,"La Cofradía, Juanacatlán, Jalisco, Mexico",20.5146659,-103.1691686,108,16
+c848,"La Mesita, 45880 Juanacatlán, Jalisco, Mexico",20.5085984,-103.1697093,2046,313
+c849,"Buenavista, Juanacatlán, Jalisco, Mexico",20.5112075,-103.1666455,206,23
+c850,"José Cortes, Los Cortés, Juanacatlán, Jal., Mexico",20.5082882,-103.1612132,480,68
+c851,"La Mesita, Juanacatlán, Jalisco, Mexico",20.5070767,-103.1657444,534,67
+c852,"La Mesita, 45880 Juanacatlán, Jalisco, Mexico",20.5085984,-103.1697093,2826,454
+c853,"Lomas de Tateposco, Tateposco, Juanacatlán, Jal., Mexico",20.4986872,-103.168174,959,97
+c854,"Calle Hidalgo 192, Sagrado Corazón, 45430 Zapotlanejo, Jal., Mexico",20.6215275,-103.0728364,1531,135
+c855,"Las Canteras, 45430 Zapotlanejo, Jalisco, Mexico",20.6222099,-103.0695443,514,41
+c856,"Tabachines, La Ceja, Zapotlanejo, Jal., Mexico",20.6263516,-103.0754387,75,1
+c857,"Las Canteras, 45430 Zapotlanejo, Jalisco, Mexico",20.6222099,-103.0695443,1181,175
+c858,"Las Granjas, Trapiche, Zapotlanejo, Jal., Mexico",20.6199336,-103.0471477,189,20
+c859,"Las Canteras, 45430 Zapotlanejo, Jalisco, Mexico",20.6222099,-103.0695443,1195,79
+c860,"Las Canteras, 45430 Zapotlanejo, Jalisco, Mexico",20.6222099,-103.0695443,5042,596
+c861,"Las Canteras, 45430 Zapotlanejo, Jalisco, Mexico",20.6222099,-103.0695443,1737,348
+c862,"Centro, Zapotlanejo, Jalisco, Mexico",20.6226029,-103.0691841,272,80
+c863,"Las Canteras, 45430 Zapotlanejo, Jalisco, Mexico",20.6222099,-103.0695443,1296,188
+c864,"Las Canteras, 45430 Zapotlanejo, Jalisco, Mexico",20.6222099,-103.0695443,1688,337
+c865,"C. San Francisco, San Francisco, Zapotlanejo, Jal., Mexico",20.6282832,-103.0708138,1393,119
+c866,"Las Canteras, 45430 Zapotlanejo, Jalisco, Mexico",20.6222099,-103.0695443,705,101
+c867,"Las Canteras, 45430 Zapotlanejo, Jalisco, Mexico",20.6222099,-103.0695443,1667,119
+c868,"Morelos, Las Canteras, 45430 Zapotlanejo, Jal., Mexico",20.6234449,-103.0666521,2969,325
+c869,"Las Canteras, 45430 Zapotlanejo, Jalisco, Mexico",20.6222099,-103.0695443,3150,262
+c870,"Las Canteras, 45430 Zapotlanejo, Jalisco, Mexico",20.6222099,-103.0695443,2588,349
+c871,"Linda Vista, 45169 Zapopan, Jalisco, Mexico",20.7199933,-103.3951945,1295,269
+c872,"República, 45146 Zapopan, Jalisco, Mexico",20.7213966,-103.3959167,2560,588
+c873,"Zapopan Municipality, 45100 Zapopan, Jalisco, Mexico",20.7220746,-103.3919446,6294,1299
+c874,"Loma Bonita, 45167 Zapopan, Jalisco, Mexico",20.7153946,-103.3886949,227,53
+c875,"San Miguel de la Colina, 45160 Zapopan, Jalisco, Mexico",20.7159019,-103.3868895,269,52
+c876,"Altamira, 45160 Zapopan, Jalisco, Mexico",20.7122558,-103.3821956,494,78
+c877,"Jacarandas, 45160 Zapopan, Jalisco, Mexico",20.7148964,-103.3811124,361,79
+c878,"Altamira, 45160 Zapopan, Jalisco, Mexico",20.7128677,-103.3883338,1839,449
+c879,"Villa de Guadalupe, Puerto Vallarta, Jalisco, Mexico",20.6485166,-105.2070485,5501,494
+c880,"San Esteban, Puerto Vallarta, Jalisco, Mexico",20.6486433,-105.197542,4643,330
+c881,"El Mangal, 48290 Puerto Vallarta, Jalisco, Mexico",20.6515508,-105.2055859,2284,189
+c882,"15 de Mayo 285, Col. Campestre Las Palmas, 48260 Puerto Vallarta, Jal., Mexico",20.6277392,-105.2161898,3915,610
+c883,"San Javier, 47730 Tototlan, Jalisco, Mexico",20.5416403,-102.7911013,6201,1024
+c884,"Basilio Vadillo, 45403 Tonalá, Jal., Mexico",20.6412353,-103.2656742,11568,1136
+c885,"Potrero de San Francisco, 45406 Tonalá, Jalisco, Mexico",20.6646731,-103.2436239,1618,72
+c886,"Las Palomas, Pinar de Las Palomas, 45406 Tonalá, Jal., Mexico",20.6662044,-103.2399748,2092,111
+c887,"Pinar de Las Palomas I, 45406 Tonalá, Jalisco, Mexico",20.6644475,-103.2394763,389,42
+c888,"Pinar de Las Palomas, 45406 Tonalá, Jalisco, Mexico",20.6647282,-103.238214,2019,140
+c889,"Arcos de Zalatitan II, 45406 Tonalá, Jalisco, Mexico",20.6593068,-103.2398369,791,59
+c890,"Constancio Hernández Alvirde, Tonalá, Jalisco, Mexico",20.6610787,-103.2522801,1499,120
+c891,"Calle 16 de Septiembre Poniente 38, Centro, 46760 Teuchitlán, Jal., Mexico",20.6832229,-103.8471105,336,19
+c892,"Teuchitlán, Jalisco, Mexico",20.689016,-103.8487501,281,24
+c893,"Arcos de Zalatitan, 45409 Tonalá, Jalisco, Mexico",20.6512451,-103.2425419,1583,82
